@@ -175,192 +175,98 @@
 173,¿Cuál es el alimento que más te gusta utilizar al cocinar?,cook
 174,¿Eres de cocinar a fuego lento o a fuego alto?,cook
 175,¿Cuál es tu plato especial para cocinar en un día festivo?,cook
-176,Buenos días cómo está usted,others
-177,Como te va?,others
-178,Y tu q tal,others
-179,Hola,others
-180,Como estás,others
-181,Hay alquien ?,others
-182,Quién eres,others
-183,Que tal,others
-184,Buen día,others
-185,Adiós,others
-186,Nos vemos,others
-187,Me voy,others
-188,Gracias,others
-189,Muchas gracias,others
-190,Es muy útil,others
-191,Gracias por ayudar,others
-192,Quien eres ?,others
-193,A que te dedicas,others
-194,Que haces,others
-195,Como está el tiempo hoy,others
-196,Que tal te ha ido el día,others
-197,Sabes de algun lugar donde vendan motos,others
-198,Sabes sobre teléfonos,others
-199,Cuál es el último automovil o carro que salió al mercado,others
-200,Si tengo muchos carros o autos o automoviles que puedo hacer con ellos,others
-201,¿Cuál es tu rutina diaria? ¿Qué ingredientes la conforman?,others
-202,¿Cuál es tu libro favorito? ¿Qué ingredientes crees que lo hacen único?,others
-203,¿Qué planes tienes para el fin de semana? ¿Cuáles son los ingredientes principales de tu diversión?,others
-204,¿Cuál es la película que más te ha gustado este año? ¿Qué ingredientes consideras que la hacen especial?,others
-205,¿Cómo describirías el amor? ¿Qué ingredientes lo conforman?,others
-206,¿Cuál es el mejor consejo que te han dado? ¿Cuáles son los ingredientes que lo hacen valioso?,others
-207,¿Qué música te gusta escuchar cuando te sientes nostálgico? ¿Qué ingredientes contiene esa música?,others
-208,¿Cuál es tu pasatiempo favorito? ¿Qué ingredientes consideras que lo hacen interesante?,others
-209,¿Qué papel crees que juegan las emociones en el aprendizaje? ¿Cuáles son los ingredientes de un buen aprendizaje emocional?,others
-210,¿Qué consejo le darías a alguien que quiere empezar a hacer ejercicio? ¿Cuáles son los ingredientes para una rutina de ejercicio efectiva?,others
-211,¿Cuál es el mejor consejo de negocios que has recibido? ¿Cuáles son los ingredientes de una buena estrategia de negocios?,others
-212,¿Qué habilidades crees que son las más importantes para tener éxito en la vida? ¿Cuáles son los ingredientes de una vida exitosa?,others
-213,¿Cuál es el país que más te ha gustado visitar hasta el momento,others
-214,? ¿Cuáles son los ingredientes de esa experiencia de viaje?,others
-215,¿Cómo describirías tu personalidad? ¿Qué ingredientes la componen?,others
-216,¿Qué te gustaría hacer si tuvieras un día libre sin restricciones de tiempo o dinero? ¿Qué ingredientes tendría tu día de ensueño?,others
-217,¿Crees que el dinero es importante para ser feliz? ¿Cuáles son los ingredientes de la felicidad verdadera?,others
-218,¿Qué necesitas para tener una buena noche de sueño? ¿Qué ingredientes tiene una buena noche de descanso?,others
-219,¿Cuáles son las habilidades más importantes que debes tener para ser un buen líder? ¿Cuáles son los ingredientes de un buen liderazgo?,others
-220,¿Crees que la alimentación afecta el estado de ánimo? ¿Cuáles son los ingredientes de una buena alimentación emocional?,others
-221,¿Cuál es tu deporte favorito?,others
-222,¿Cuál es el país que más te gustaría visitar?,others
-223,¿Cuál es tu película favorita?,others
-224,¿Eres más de perros o de gatos?,others
-225,¿Estás siguiendo alguna serie en este momento?,others
-226,¿Cuál es la mejor ciudad que has visitado?,others
-227,¿Tienes algún talento especial?,others
-228,¿Tocas algún instrumento musical?,others
-229,¿Cuál es tu comida favorita?,others
-230,¿Eres una persona madrugadora o nocturna?,others
-231,¿Cómo sueles pasar tus fines de semana?,others
-232,¿Cuál es el mejor concierto al que has asistido?,others
-233,¿Has tenido alguna experiencia paranormal?,others
-234,¿Cuál es tu canción favorita?,others
-235,¿Tienes algún deporte o actividad física que te gustaría aprender?,others
-236,¿Cuál es tu canción de karaoke favorita?,others
-237,¿Te gustaría tener una en un futuro y cuál sería?,others
-238,¿Tienes algún interés o pasatiempo poco común?,others
-239,¿Cuál es el mejor regalo que has recibido?,others
-240,¿Prefieres el mar o la montaña?,others
-241,¿Qué tipo de género musical no soportas?,others
-242,"¿Qué prefieres, leer un libro en físico o digital?",others
-243,¿Eres más de libros o de películas?,others
-244,¿Prefieres la ciudad o el campo?,others
-245,¿Cuál es tu videojuego favorito?,others
-246,¿Te gusta hacer deporte al aire libre o en un gimnasio?,others
-247,¿Cómo describirías tu personalidad en una sola palabra?,others
-248,¿Cuál es el mejor chiste que conoces?,others
-249,¿Tienes alguna habilidad que la gente desconoce?,others
-250,¿Qué idioma te gustaría aprender?,others
-251,¿Cuál es tu color favorito?,others
-252,¿Eres una persona supersticiosa?,others
-253,¿Cuál es tu estación del año favorita?,others
-254,¿Tienes algún lugar secreto al que te gusta escapar?,others
-255,¿Cuál es el mejor consejo que alguien te ha dado?,others
-256,¿Cuál es tu rutina diaria?,others
-257,¿Has vivido en alguna ciudad fuera de tu país de origen?,others
-258,"¿Qué prefieres, la playa o el río?",others
-259,¿Cuál crees que es tu mejor cualidad?,others
-260,¿Eres una persona más planificada o improvisada?,others
-261,¿Podrías vivir sin tu teléfono móvil?,others
-262,¿Cuál es el último lugar al que has viajado?,others
-263,¿Qué libro recomendarías para leer en un viaje?,others
-264,¿Eres alguien que perdona fácilmente?,others
-265,¿Cuál es tu rincón favorito de tu casa?,others
-266,¿Te gusta cambiar la decoración de tu casa o prefieres mantenerla siempre igual?,others
-267,¿Cuál es tu lugar turístico favorito en tu país de origen?,others
-268,¿Cómo es tu relación con tu familia?,others
-269,¿Qué te hace sentir más agradecido en la vida?,others
-270,Hola,others
-271,Buenos días cómo está usted,others
-272,Como te va?,others
-273,Y tu q tal,others
-274,Hola,others
-275,Como estás,others
-276,Hay alquien ?,others
-277,Quién eres,others
-278,Que tal,others
-279,Buen día,others
-280,Adiós,others
-281,Nos vemos,others
-282,Me voy,others
-283,Gracias,others
-284,Muchas gracias,others
-285,Es muy útil,others
-286,Gracias por ayudar,others
-287,Quien eres ?,others
-288,A que te dedicas,others
-289,Que haces,others
-290,Como está el tiempo hoy,others
-291,Que tal te ha ido el día,others
-292,Sabes de algun lugar donde vendan motos,others
-293,Sabes sobre teléfonos,others
-294,Cuál es el último automovil o carro que salió al mercado,others
-295,Si tengo muchos carros o autos o automoviles que puedo hacer con ellos,others
-296,¿Cuál es tu rutina diaria? ¿Qué ingredientes la conforman?,others
-297,¿Cuál es tu libro favorito? ¿Qué ingredientes crees que lo hacen único?,others
-298,¿Qué planes tienes para el fin de semana? ¿Cuáles son los ingredientes principales de tu diversión?,others
-299,¿Cuál es la película que más te ha gustado este año? ¿Qué ingredientes consideras que la hacen especial?,others
-300,¿Cómo describirías el amor? ¿Qué ingredientes lo conforman?,others
-301,¿Cuál es el mejor consejo que te han dado? ¿Cuáles son los ingredientes que lo hacen valioso?,others
-302,¿Qué música te gusta escuchar cuando te sientes nostálgico? ¿Qué ingredientes contiene esa música?,others
-303,¿Cuál es tu pasatiempo favorito? ¿Qué ingredientes consideras que lo hacen interesante?,others
-304,¿Qué papel crees que juegan las emociones en el aprendizaje? ¿Cuáles son los ingredientes de un buen aprendizaje emocional?,others
-305,¿Qué consejo le darías a alguien que quiere empezar a hacer ejercicio? ¿Cuáles son los ingredientes para una rutina de ejercicio efectiva?,others
-306,¿Cuál es el mejor consejo de negocios que has recibido? ¿Cuáles son los ingredientes de una buena estrategia de negocios?,others
-307,¿Qué habilidades crees que son las más importantes para tener éxito en la vida? ¿Cuáles son los ingredientes de una vida exitosa?,others
-308,¿Cuál es el país que más te ha gustado visitar hasta el momento,others
-309,? ¿Cuáles son los ingredientes de esa experiencia de viaje?,others
-310,¿Cómo describirías tu personalidad? ¿Qué ingredientes la componen?,others
-311,¿Qué te gustaría hacer si tuvieras un día libre sin restricciones de tiempo o dinero? ¿Qué ingredientes tendría tu día de ensueño?,others
-312,¿Crees que el dinero es importante para ser feliz? ¿Cuáles son los ingredientes de la felicidad verdadera?,others
-313,¿Qué necesitas para tener una buena noche de sueño? ¿Qué ingredientes tiene una buena noche de descanso?,others
-314,¿Cuáles son las habilidades más importantes que debes tener para ser un buen líder? ¿Cuáles son los ingredientes de un buen liderazgo?,others
-315,¿Crees que la alimentación afecta el estado de ánimo? ¿Cuáles son los ingredientes de una buena alimentación emocional?,others
-316,¿Cuál es tu deporte favorito?,others
-317,¿Cuál es el país que más te gustaría visitar?,others
-318,¿Cuál es tu película favorita?,others
-319,¿Eres más de perros o de gatos?,others
-320,¿Estás siguiendo alguna serie en este momento?,others
-321,¿Cuál es la mejor ciudad que has visitado?,others
-322,¿Tienes algún talento especial?,others
-323,¿Tocas algún instrumento musical?,others
-324,¿Cuál es tu comida favorita?,others
-325,¿Eres una persona madrugadora o nocturna?,others
-326,¿Cómo sueles pasar tus fines de semana?,others
-327,¿Cuál es el mejor concierto al que has asistido?,others
-328,¿Has tenido alguna experiencia paranormal?,others
-329,¿Cuál es tu canción favorita?,others
-330,¿Tienes algún deporte o actividad física que te gustaría aprender?,others
-331,¿Cuál es tu canción de karaoke favorita?,others
-332,¿Te gustaría tener una en un futuro y cuál sería?,others
-333,¿Tienes algún interés o pasatiempo poco común?,others
-334,¿Cuál es el mejor regalo que has recibido?,others
-335,¿Prefieres el mar o la montaña?,others
-336,¿Qué tipo de género musical no soportas?,others
-337,"¿Qué prefieres, leer un libro en físico o digital?",others
-338,¿Eres más de libros o de películas?,others
-339,¿Prefieres la ciudad o el campo?,others
-340,¿Cuál es tu videojuego favorito?,others
-341,¿Te gusta hacer deporte al aire libre o en un gimnasio?,others
-342,¿Cómo describirías tu personalidad en una sola palabra?,others
-343,¿Cuál es el mejor chiste que conoces?,others
-344,¿Tienes alguna habilidad que la gente desconoce?,others
-345,¿Qué idioma te gustaría aprender?,others
-346,¿Cuál es tu color favorito?,others
-347,¿Eres una persona supersticiosa?,others
-348,¿Cuál es tu estación del año favorita?,others
-349,¿Tienes algún lugar secreto al que te gusta escapar?,others
-350,¿Cuál es el mejor consejo que alguien te ha dado?,others
-351,¿Cuál es tu rutina diaria?,others
-352,¿Has vivido en alguna ciudad fuera de tu país de origen?,others
-353,"¿Qué prefieres, la playa o el río?",others
-354,¿Cuál crees que es tu mejor cualidad?,others
-355,¿Eres una persona más planificada o improvisada?,others
-356,¿Podrías vivir sin tu teléfono móvil?,others
-357,¿Cuál es el último lugar al que has viajado?,others
-358,¿Qué libro recomendarías para leer en un viaje?,others
-359,¿Eres alguien que perdona fácilmente?,others
-360,¿Cuál es tu rincón favorito de tu casa?,others
-361,¿Te gusta cambiar la decoración de tu casa o prefieres mantenerla siempre igual?,others
-362,¿Cuál es tu lugar turístico favorito en tu país de origen?,others
-363,¿Cómo es tu relación con tu familia?,others
-364,¿Qué te hace sentir más agradecido en la vida?,others
+176,Hola,others
+177,Buenos días cómo está usted,others
+178,Como te va?,others
+179,Y tu q tal,others
+180,Hola,others
+181,Como estás,others
+182,Hay alquien ?,others
+183,Quién eres,others
+184,Que tal,others
+185,Buen día,others
+186,Adiós,others
+187,Nos vemos,others
+188,Me voy,others
+189,Gracias,others
+190,Muchas gracias,others
+191,Es muy útil,others
+192,Gracias por ayudar,others
+193,Quien eres ?,others
+194,A que te dedicas,others
+195,Que haces,others
+196,Como está el tiempo hoy,others
+197,Que tal te ha ido el día,others
+198,Sabes de algun lugar donde vendan motos,others
+199,Sabes sobre teléfonos,others
+200,Cuál es el último automovil o carro que salió al mercado,others
+201,Si tengo muchos carros o autos o automoviles que puedo hacer con ellos,others
+202,¿Cuál es tu rutina diaria? ¿Qué ingredientes la conforman?,others
+203,¿Cuál es tu libro favorito? ¿Qué ingredientes crees que lo hacen único?,others
+204,¿Qué planes tienes para el fin de semana? ¿Cuáles son los ingredientes principales de tu diversión?,others
+205,¿Cuál es la película que más te ha gustado este año? ¿Qué ingredientes consideras que la hacen especial?,others
+206,¿Cómo describirías el amor? ¿Qué ingredientes lo conforman?,others
+207,¿Cuál es el mejor consejo que te han dado? ¿Cuáles son los ingredientes que lo hacen valioso?,others
+208,¿Qué música te gusta escuchar cuando te sientes nostálgico? ¿Qué ingredientes contiene esa música?,others
+209,¿Cuál es tu pasatiempo favorito? ¿Qué ingredientes consideras que lo hacen interesante?,others
+210,¿Qué papel crees que juegan las emociones en el aprendizaje? ¿Cuáles son los ingredientes de un buen aprendizaje emocional?,others
+211,¿Qué consejo le darías a alguien que quiere empezar a hacer ejercicio? ¿Cuáles son los ingredientes para una rutina de ejercicio efectiva?,others
+212,¿Cuál es el mejor consejo de negocios que has recibido? ¿Cuáles son los ingredientes de una buena estrategia de negocios?,others
+213,¿Qué habilidades crees que son las más importantes para tener éxito en la vida? ¿Cuáles son los ingredientes de una vida exitosa?,others
+214,¿Cuál es el país que más te ha gustado visitar hasta el momento,others
+215,? ¿Cuáles son los ingredientes de esa experiencia de viaje?,others
+216,¿Cómo describirías tu personalidad? ¿Qué ingredientes la componen?,others
+217,¿Qué te gustaría hacer si tuvieras un día libre sin restricciones de tiempo o dinero? ¿Qué ingredientes tendría tu día de ensueño?,others
+218,¿Crees que el dinero es importante para ser feliz? ¿Cuáles son los ingredientes de la felicidad verdadera?,others
+219,¿Qué necesitas para tener una buena noche de sueño? ¿Qué ingredientes tiene una buena noche de descanso?,others
+220,¿Cuáles son las habilidades más importantes que debes tener para ser un buen líder? ¿Cuáles son los ingredientes de un buen liderazgo?,others
+221,¿Crees que la alimentación afecta el estado de ánimo? ¿Cuáles son los ingredientes de una buena alimentación emocional?,others
+222,¿Cuál es tu deporte favorito?,others
+223,¿Cuál es el país que más te gustaría visitar?,others
+224,¿Cuál es tu película favorita?,others
+225,¿Eres más de perros o de gatos?,others
+226,¿Estás siguiendo alguna serie en este momento?,others
+227,¿Cuál es la mejor ciudad que has visitado?,others
+228,¿Tienes algún talento especial?,others
+229,¿Tocas algún instrumento musical?,others
+230,¿Cuál es tu comida favorita?,others
+231,¿Eres una persona madrugadora o nocturna?,others
+232,¿Cómo sueles pasar tus fines de semana?,others
+233,¿Cuál es el mejor concierto al que has asistido?,others
+234,¿Has tenido alguna experiencia paranormal?,others
+235,¿Cuál es tu canción favorita?,others
+236,¿Tienes algún deporte o actividad física que te gustaría aprender?,others
+237,¿Cuál es tu canción de karaoke favorita?,others
+238,¿Te gustaría tener una en un futuro y cuál sería?,others
+239,¿Tienes algún interés o pasatiempo poco común?,others
+240,¿Cuál es el mejor regalo que has recibido?,others
+241,¿Prefieres el mar o la montaña?,others
+242,¿Qué tipo de género musical no soportas?,others
+243,"¿Qué prefieres, leer un libro en físico o digital?",others
+244,¿Eres más de libros o de películas?,others
+245,¿Prefieres la ciudad o el campo?,others
+246,¿Cuál es tu videojuego favorito?,others
+247,¿Te gusta hacer deporte al aire libre o en un gimnasio?,others
+248,¿Cómo describirías tu personalidad en una sola palabra?,others
+249,¿Cuál es el mejor chiste que conoces?,others
+250,¿Tienes alguna habilidad que la gente desconoce?,others
+251,¿Qué idioma te gustaría aprender?,others
+252,¿Cuál es tu color favorito?,others
+253,¿Eres una persona supersticiosa?,others
+254,¿Cuál es tu estación del año favorita?,others
+255,¿Tienes algún lugar secreto al que te gusta escapar?,others
+256,¿Cuál es el mejor consejo que alguien te ha dado?,others
+257,¿Cuál es tu rutina diaria?,others
+258,¿Has vivido en alguna ciudad fuera de tu país de origen?,others
+259,"¿Qué prefieres, la playa o el río?",others
+260,¿Cuál crees que es tu mejor cualidad?,others
+261,¿Eres una persona más planificada o improvisada?,others
+262,¿Podrías vivir sin tu teléfono móvil?,others
+263,¿Cuál es el último lugar al que has viajado?,others
+264,¿Qué libro recomendarías para leer en un viaje?,others
+265,¿Eres alguien que perdona fácilmente?,others
+266,¿Cuál es tu rincón favorito de tu casa?,others
+267,¿Te gusta cambiar la decoración de tu casa o prefieres mantenerla siempre igual?,others
+268,¿Cuál es tu lugar turístico favorito en tu país de origen?,others
+269,¿Cómo es tu relación con tu familia?,others
+270,¿Qué te hace sentir más agradecido en la vida?,others
