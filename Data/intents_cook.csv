@@ -1,116 +1,145 @@
 ,text,label
 0,¿Cómo se hace la receta de las galletas de avena?,name_to_prepare
-1,¿Qué ingredientes necesito para hacer un pastel de zanahoria?,name_to_prepare
-2,¿Cuál es la mejor manera de cocinar una pizza casera?,name_to_prepare
-3,¿Cómo puedo hacer salsa de tomate casera?,name_to_prepare
-4,¿Tienes una buena receta para hacer sopa de pollo?,name_to_prepare
-5,¿Cómo se hace la masa para los tacos mexicanos?,name_to_prepare
-6,¿Qué puedo hacer con las sobras de pollo asado?,name_to_prepare
-7,¿Cómo se hace la salsa de pesto?,name_to_prepare
-8,¿Cuál es la receta para hacer un guiso de carne sabroso?,name_to_prepare
-9,¿Cómo puedo hacer un postre de chocolate sin horno?,name_to_prepare
-10,¿Cómo puedo hacer un pastel de chocolate perfecto?,name_to_prepare
-11,¿Cuál es la mejor manera de hacer una lasaña casera?,name_to_prepare
-12,¿Cómo se hace una ensalada César?,name_to_prepare
-13,¿Cómo puedo preparar una buena salsa de queso para nachos?,name_to_prepare
-14,¿Cuál es la mejor manera de cocinar un bistec a la parrilla?,name_to_prepare
-15,¿Cómo puedo hacer una ensalada de frutas frescas?,name_to_prepare
-16,¿Cómo se hace la masa para pizza?,name_to_prepare
-17,¿Qué ingredientes necesito para hacer un risotto?,name_to_prepare
-18,¿Cómo se hace una salsa bechamel?,name_to_prepare
-19,¿Cuál es la mejor manera de cocinar un pescado a la plancha?,name_to_prepare
-20,¿Cómo se hace una buena paella?,name_to_prepare
-21,¿Qué puedo hacer con los restos de pollo asado?,name_to_prepare
-22,¿Cómo puedo hacer una salsa de tomate casera?,name_to_prepare
-23,¿Cuál es la mejor manera de hacer arroz frito?,name_to_prepare
-24,¿Cómo se hace la masa para las empanadas?,name_to_prepare
-25,¿Cómo puedo preparar un buen ceviche?,name_to_prepare
-26,¿Cuál es la mejor manera de cocinar un filete de salmón?,name_to_prepare
-27,¿Cómo se hace una buena salsa barbacoa?,name_to_prepare
-28,¿Cómo puedo hacer una sopa de fideos casera?,name_to_prepare
-29,¿Cuál es la mejor manera de hacer una tortilla española?,name_to_prepare
-30,¿Cómo se hace una salsa de guacamole?,name_to_prepare
-31,¿Qué ingredientes necesito para hacer una hamburguesa casera?,name_to_prepare
-32,¿Cómo puedo preparar una buena ensalada de atún?,name_to_prepare
-33,¿Cuál es la mejor manera de cocinar un filete de carne a la parrilla?,name_to_prepare
-34,¿Cómo se hace una buena salsa de chimichurri?,name_to_prepare
-35,¿Cómo puedo hacer un guacamole con tomate y cebolla?,name_to_prepare
-36,¿Cuál es la mejor manera de cocinar un filete de pollo a la parrilla?,name_to_prepare
-37,¿Cómo se hace una buena salsa de curry?,name_to_prepare
-38,¿Qué ingredientes necesito para hacer una pizza de pepperoni?,name_to_prepare
-39,¿Cómo puedo hacer una sopa de verduras con pollo?,name_to_prepare
-40,¿Cuál es la mejor manera de hacer una tarta de manzana casera?,name_to_prepare
-41,¿Cómo se hace una buena salsa de albahaca?,name_to_prepare
-42,¿Qué puedo hacer con los restos de carne asada?,name_to_prepare
-43,¿Cómo puedo preparar una buena ensalada de pollo a la parrilla?,name_to_prepare
-44,¿Cuál es la mejor manera de cocinar un filete de pescado a la parrilla?,name_to_prepare
-45,¿Cómo se hace una buena salsa de queso azul?,name_to_prepare
-46,¿Cómo puedo hacer una buena sopa de calabaza?,name_to_prepare
-47,¿Qué ingredientes necesito para hacer un chili con carne?,name_to_prepare
-48,¿Cuál es la mejor manera de hacer una ensalada de pasta?,name_to_prepare
-49,¿Cómo se hace una buena salsa de tomate picante?,name_to_prepare
-50,¿Qué puedo hacer con las sobras de arroz blanco?,name_to_prepare
-51,¿Cómo puedo preparar una buena ensalada de espinacas con fresas?,name_to_prepare
-52,¿Cuál es la mejor manera de cocinar un filete de ternera a la parrilla?,name_to_prepare
-53,¿Cómo se hace una buena salsa de pesto?,name_to_prepare
-54,¿Qué ingredientes necesito para hacer un guiso de pollo,name_to_prepare
-55,"¿Cómo se llama esa receta que lleva tomate, mozzarella y albahaca?",ingredient_to_name
-56,"¿Cuál es el nombre de esa receta que lleva pollo, brócoli y queso?",ingredient_to_name
-57,"¿Cómo se llama esa receta que lleva carne de res, cebolla y pimientos?",ingredient_to_name
-58,"¿Cuál es el nombre de esa receta que lleva arroz, verduras y camarones?",ingredient_to_name
-59,"¿Cómo se llama esa receta que lleva lentejas, tomate y zanahoria?",ingredient_to_name
-60,"¿Cuál es el nombre de esa receta que lleva calabaza, cebolla y manzana?",ingredient_to_name
-61,"¿Cómo se llama esa receta que lleva queso crema, chocolate y galletas?",ingredient_to_name
-62,"¿Cuál es el nombre de esa receta que lleva pasta, tomate y albahaca?",ingredient_to_name
-63,"¿Cómo se llama esa receta que lleva pollo, espinacas y queso feta?",ingredient_to_name
-64,"¿Cuál es el nombre de esa receta que lleva atún, cebolla y papas?",ingredient_to_name
-65,"¿Cómo se llama esa receta que lleva berenjenas, tomate y queso parmesano?",ingredient_to_name
-66,"¿Cuál es el nombre de esa receta que lleva salchichas, pimientos y cebolla?",ingredient_to_name
-67,"¿Cómo se llama esa receta que lleva arroz, pollo y guisantes?",ingredient_to_name
-68,"¿Cuál es el nombre de esa receta que lleva quinoa, verduras y garbanzos?",ingredient_to_name
-69,"¿Cómo se llama esa receta que lleva champiñones, cebolla y queso de cabra?",ingredient_to_name
-70,"¿Cuál es el nombre de esa receta que lleva pollo, salsa de tomate y pasta?",ingredient_to_name
-71,"¿Cómo se llama esa receta que lleva arroz, camarones y piña?",ingredient_to_name
-72,"¿Cuál es el nombre de esa receta que lleva salmón, espinacas y quinoa?",ingredient_to_name
-73,"¿Cómo se llama esa receta que lleva frijoles negros, arroz y tomate?",ingredient_to_name
-74,"¿Cuál es el nombre de esa receta que lleva patatas, cebolla y huevos?",ingredient_to_name
-75,"¿Cómo se llama esa receta que lleva garbanzos, tomate y especias?",ingredient_to_name
-76,"¿Cuál es el nombre de esa receta que lleva carne molida, salsa de tomate y queso?",ingredient_to_name
-77,"¿Cómo se llama esa receta que lleva arroz, pollo y curry?",ingredient_to_name
-78,"¿Cuál es el nombre de esa receta que lleva salmón, arroz integral y espinacas?",ingredient_to_name
-79,"¿Cómo se llama esa receta que lleva pollo, calabacín y tomate?",ingredient_to_name
-80,"¿Cuál es el nombre de esa receta que lleva calabaza, garbanzos y curry?",ingredient_to_name
-81,"¿Cómo se llama esa receta que lleva tomate, cebolla y pimientos?",ingredient_to_name
-82,"¿Cuál es el nombre de esa receta que lleva fideos, verduras y salsa de soja?",ingredient_to_name
-83,"¿Cómo se llama esa receta que lleva pollo, leche de coco y curry?",ingredient_to_name
-84,"¿Cuál es el nombre de esa receta que lleva pasta, espinacas y tomate seco?",ingredient_to_name
-85,"¿Cómo se llama esa receta que lleva pollo, cebolla y champiñones?",ingredient_to_name
-86,"¿Cuál es el nombre de esa receta que lleva arroz, frijoles y chorizo?",ingredient_to_name
-87,"¿Cómo se llama esa receta que lleva carne de res, tomate y papas?",ingredient_to_name
-88,"¿Cuál es el nombre de esa receta que lleva fideos, pollo y salsa de soja?",ingredient_to_name
-89,"¿Cómo se llama esa receta que lleva lentejas, arroz y especias?",ingredient_to_name
-90,"¿Cuál es el nombre de esa receta que lleva carne de cerdo, piña y pimiento?",ingredient_to_name
-91,"¿Cómo se llama esa receta que lleva espaguetis, tomate y ajo?",ingredient_to_name
-92,"¿Cuál es el nombre de esa receta que lleva patatas, cebolla y huevo?",ingredient_to_name
-93,"¿Cómo se llama esa receta que lleva pollo, arroz y verduras?",ingredient_to_name
-94,"¿Cuál es el nombre de esa receta que lleva jamón, queso y pan?",ingredient_to_name
-95,"¿Cómo se llama esa receta que lleva aguacate, tomate y cebolla roja?",ingredient_to_name
-96,"¿Cuál es el nombre de esa receta que lleva salmón, arroz integral y espinacas?",ingredient_to_name
-97,"¿Cómo se llama esa receta que lleva espinacas, queso feta y piñones?",ingredient_to_name
-98,"¿Cuál es el nombre de esa receta que lleva pollo, leche de coco y curry?",ingredient_to_name
-99,"¿Cómo se llama esa receta que lleva berenjenas, tomate y queso parmesano?",ingredient_to_name
-100,"¿Cuál es el nombre de esa receta que lleva camarones, arroz y especias?",ingredient_to_name
-101,"¿Cómo se llama esa receta que lleva garbanzos, tomate y especias?",ingredient_to_name
-102,"¿Cuál es el nombre de esa receta que lleva pollo, maíz y pimiento rojo?",ingredient_to_name
-103,"¿Cómo se llama esa receta que lleva tofu, verduras y salsa de soja?",ingredient_to_name
-104,"¿Cuál es el nombre de esa receta que lleva pasta, tomate y albahaca?",ingredient_to_name
-105,"¿Cómo se llama esa receta que lleva carne molida, salsa de tomate y pasta?",ingredient_to_name
-106,"¿Cuál es el nombre de esa receta que lleva salchichas, papas y cebolla?",ingredient_to_name
-107,"¿Cómo se llama esa receta que lleva huevo, tomate y cebolla?",ingredient_to_name
-108,"¿Cuál es el nombre de esa receta que lleva pollo, arroz y curry?",ingredient_to_name
-109,"¿Cómo se llama esa receta que lleva pollo, pimiento y cebolla?",ingredient_to_name
-110,"¿Cuál es el nombre de esa receta que lleva arroz, leche y canela?",ingredient_to_name
-111,"¿Cómo se llama esa receta que lleva espaguetis, albahaca y tomate cherry?",ingredient_to_name
-112,"¿Cuál es el nombre de esa receta que lleva salmón, patatas y espárragos?",ingredient_to_name
-113,"¿Cómo se llama esa receta que lleva pollo, jengibre y salsa de soja?",ingredient_to_name
-114,"¿Cuál es el nombre de esa receta que lleva queso feta, pepino y aceitunas?",ingredient_to_name
+1,¿Cuál es la mejor manera de cocinar una pizza casera?,name_to_prepare
+2,¿Cómo puedo hacer salsa de tomate casera?,name_to_prepare
+3,¿Tienes una buena receta para hacer sopa de pollo?,name_to_prepare
+4,¿Cómo se hace la masa para los tacos mexicanos?,name_to_prepare
+5,¿Qué puedo hacer con las sobras de pollo asado?,name_to_prepare
+6,¿Cómo se hace la salsa de pesto?,name_to_prepare
+7,¿Cuál es la receta para hacer un guiso de carne sabroso?,name_to_prepare
+8,¿Cómo puedo hacer un postre de chocolate sin horno?,name_to_prepare
+9,¿Cómo puedo hacer un pastel de chocolate perfecto?,name_to_prepare
+10,¿Cuál es la mejor manera de hacer una lasaña casera?,name_to_prepare
+11,¿Cómo se hace una ensalada César?,name_to_prepare
+12,¿Cómo puedo preparar una buena salsa de queso para nachos?,name_to_prepare
+13,¿Cuál es la mejor manera de cocinar un bistec a la parrilla?,name_to_prepare
+14,¿Cómo puedo hacer una ensalada de frutas frescas?,name_to_prepare
+15,¿Cómo se hace la masa para pizza?,name_to_prepare
+16,¿Cómo se hace una salsa bechamel?,name_to_prepare
+17,¿Cuál es la mejor manera de cocinar un pescado a la plancha?,name_to_prepare
+18,¿Cómo se hace una buena paella?,name_to_prepare
+19,¿Qué puedo hacer con los restos de pollo asado?,name_to_prepare
+20,¿Cómo puedo hacer una salsa de tomate casera?,name_to_prepare
+21,¿Cuál es la mejor manera de hacer arroz frito?,name_to_prepare
+22,¿Cómo se hace la masa para las empanadas?,name_to_prepare
+23,¿Cómo puedo preparar un buen ceviche?,name_to_prepare
+24,¿Cuál es la mejor manera de cocinar un filete de salmón?,name_to_prepare
+25,¿Cómo se hace una buena salsa barbacoa?,name_to_prepare
+26,¿Cómo puedo hacer una sopa de fideos casera?,name_to_prepare
+27,¿Cuál es la mejor manera de hacer una tortilla española?,name_to_prepare
+28,¿Cómo se hace una salsa de guacamole?,name_to_prepare
+29,¿Cómo puedo preparar una buena ensalada de atún?,name_to_prepare
+30,¿Cuál es la mejor manera de cocinar un filete de carne a la parrilla?,name_to_prepare
+31,¿Cómo se hace una buena salsa de chimichurri?,name_to_prepare
+32,¿Cómo puedo hacer un guacamole con tomate y cebolla?,name_to_prepare
+33,¿Cuál es la mejor manera de cocinar un filete de pollo a la parrilla?,name_to_prepare
+34,¿Cómo se hace una buena salsa de curry?,name_to_prepare
+35,¿Cómo puedo hacer una sopa de verduras con pollo?,name_to_prepare
+36,¿Cuál es la mejor manera de hacer una tarta de manzana casera?,name_to_prepare
+37,¿Cómo se hace una buena salsa de albahaca?,name_to_prepare
+38,¿Qué puedo hacer con los restos de carne asada?,name_to_prepare
+39,¿Cómo puedo preparar una buena ensalada de pollo a la parrilla?,name_to_prepare
+40,¿Cuál es la mejor manera de cocinar un filete de pescado a la parrilla?,name_to_prepare
+41,¿Cómo se hace una buena salsa de queso azul?,name_to_prepare
+42,¿Cómo puedo hacer una buena sopa de calabaza?,name_to_prepare
+43,¿Qué ingredientes necesito para hacer un chili con carne?,name_to_prepare
+44,¿Cuál es la mejor manera de hacer una ensalada de pasta?,name_to_prepare
+45,¿Cómo se hace una buena salsa de tomate picante?,name_to_prepare
+46,¿Qué puedo hacer con las sobras de arroz blanco?,name_to_prepare
+47,¿Cómo puedo preparar una buena ensalada de espinacas con fresas?,name_to_prepare
+48,¿Cuál es la mejor manera de cocinar un filete de ternera a la parrilla?,name_to_prepare
+49,¿Cómo se hace una buena salsa de pesto?,name_to_prepare
+50,"Oye, ¿me podrías decir cómo se prepara el guacamole?",name_to_prepare
+51,¿Tú sabes cómo se hace el pollo al horno con papas?,name_to_prepare
+52,¿Me puedes decir cómo se prepara la salsa boloñesa?,name_to_prepare
+53,"Oye, ¿me puedes enseñar a hacer las empanadas de carne que hacen en tu casa?",name_to_prepare
+54,"¿Cómo se llama esa receta que lleva tomate, mozzarella y albahaca?",ingredient_to_name
+55,"¿Cuál es el nombre de esa receta que lleva pollo, brócoli y queso?",ingredient_to_name
+56,"¿Cómo se llama esa receta que lleva carne de res, cebolla y pimientos?",ingredient_to_name
+57,"¿Cuál es el nombre de esa receta que lleva arroz, verduras y camarones?",ingredient_to_name
+58,"¿Cómo se llama esa receta que lleva lentejas, tomate y zanahoria?",ingredient_to_name
+59,"¿Cuál es el nombre de esa receta que lleva calabaza, cebolla y manzana?",ingredient_to_name
+60,"¿Cómo se llama esa receta que lleva queso crema, chocolate y galletas?",ingredient_to_name
+61,"¿Cuál es el nombre de esa receta que lleva pasta, tomate y albahaca?",ingredient_to_name
+62,"¿Cómo se llama esa receta que lleva pollo, espinacas y queso feta?",ingredient_to_name
+63,"¿Cuál es el nombre de esa receta que lleva atún, cebolla y papas?",ingredient_to_name
+64,"¿Cómo se llama esa receta que lleva berenjenas, tomate y queso parmesano?",ingredient_to_name
+65,"¿Cuál es el nombre de esa receta que lleva salchichas, pimientos y cebolla?",ingredient_to_name
+66,"¿Cómo se llama esa receta que lleva arroz, pollo y guisantes?",ingredient_to_name
+67,"¿Cuál es el nombre de esa receta que lleva quinoa, verduras y garbanzos?",ingredient_to_name
+68,"¿Cómo se llama esa receta que lleva champiñones, cebolla y queso de cabra?",ingredient_to_name
+69,"¿Cuál es el nombre de esa receta que lleva pollo, salsa de tomate y pasta?",ingredient_to_name
+70,"¿Cómo se llama esa receta que lleva arroz, camarones y piña?",ingredient_to_name
+71,"¿Cuál es el nombre de esa receta que lleva salmón, espinacas y quinoa?",ingredient_to_name
+72,"¿Cómo se llama esa receta que lleva frijoles negros, arroz y tomate?",ingredient_to_name
+73,"¿Cuál es el nombre de esa receta que lleva patatas, cebolla y huevos?",ingredient_to_name
+74,"¿Cómo se llama esa receta que lleva garbanzos, tomate y especias?",ingredient_to_name
+75,"¿Cuál es el nombre de esa receta que lleva carne molida, salsa de tomate y queso?",ingredient_to_name
+76,"¿Cómo se llama esa receta que lleva arroz, pollo y curry?",ingredient_to_name
+77,"¿Cuál es el nombre de esa receta que lleva salmón, arroz integral y espinacas?",ingredient_to_name
+78,"¿Cómo se llama esa receta que lleva pollo, calabacín y tomate?",ingredient_to_name
+79,"¿Cuál es el nombre de esa receta que lleva calabaza, garbanzos y curry?",ingredient_to_name
+80,"¿Cómo se llama esa receta que lleva tomate, cebolla y pimientos?",ingredient_to_name
+81,"¿Cuál es el nombre de esa receta que lleva fideos, verduras y salsa de soja?",ingredient_to_name
+82,"¿Cómo se llama esa receta que lleva pollo, leche de coco y curry?",ingredient_to_name
+83,"¿Cuál es el nombre de esa receta que lleva pasta, espinacas y tomate seco?",ingredient_to_name
+84,"¿Cómo se llama esa receta que lleva pollo, cebolla y champiñones?",ingredient_to_name
+85,"¿Cuál es el nombre de esa receta que lleva arroz, frijoles y chorizo?",ingredient_to_name
+86,"¿Cómo se llama esa receta que lleva carne de res, tomate y papas?",ingredient_to_name
+87,"¿Cuál es el nombre de esa receta que lleva fideos, pollo y salsa de soja?",ingredient_to_name
+88,"¿Cómo se llama esa receta que lleva lentejas, arroz y especias?",ingredient_to_name
+89,"¿Cuál es el nombre de esa receta que lleva carne de cerdo, piña y pimiento?",ingredient_to_name
+90,"¿Cómo se llama esa receta que lleva espaguetis, tomate y ajo?",ingredient_to_name
+91,"¿Cuál es el nombre de esa receta que lleva patatas, cebolla y huevo?",ingredient_to_name
+92,"¿Cómo se llama esa receta que lleva pollo, arroz y verduras?",ingredient_to_name
+93,"¿Cuál es el nombre de esa receta que lleva jamón, queso y pan?",ingredient_to_name
+94,"¿Cómo se llama esa receta que lleva aguacate, tomate y cebolla roja?",ingredient_to_name
+95,"¿Cuál es el nombre de esa receta que lleva salmón, arroz integral y espinacas?",ingredient_to_name
+96,"¿Cómo se llama esa receta que lleva espinacas, queso feta y piñones?",ingredient_to_name
+97,"¿Cuál es el nombre de esa receta que lleva pollo, leche de coco y curry?",ingredient_to_name
+98,"¿Cómo se llama esa receta que lleva berenjenas, tomate y queso parmesano?",ingredient_to_name
+99,"¿Cuál es el nombre de esa receta que lleva camarones, arroz y especias?",ingredient_to_name
+100,"¿Cómo se llama esa receta que lleva garbanzos, tomate y especias?",ingredient_to_name
+101,"¿Cuál es el nombre de esa receta que lleva pollo, maíz y pimiento rojo?",ingredient_to_name
+102,"¿Cómo se llama esa receta que lleva tofu, verduras y salsa de soja?",ingredient_to_name
+103,"¿Cuál es el nombre de esa receta que lleva pasta, tomate y albahaca?",ingredient_to_name
+104,"¿Cómo se llama esa receta que lleva carne molida, salsa de tomate y pasta?",ingredient_to_name
+105,"¿Cuál es el nombre de esa receta que lleva salchichas, papas y cebolla?",ingredient_to_name
+106,"¿Cómo se llama esa receta que lleva huevo, tomate y cebolla?",ingredient_to_name
+107,"¿Cuál es el nombre de esa receta que lleva pollo, arroz y curry?",ingredient_to_name
+108,"¿Cómo se llama esa receta que lleva pollo, pimiento y cebolla?",ingredient_to_name
+109,"¿Cuál es el nombre de esa receta que lleva arroz, leche y canela?",ingredient_to_name
+110,"¿Cómo se llama esa receta que lleva espaguetis, albahaca y tomate cherry?",ingredient_to_name
+111,"¿Cuál es el nombre de esa receta que lleva salmón, patatas y espárragos?",ingredient_to_name
+112,"¿Cómo se llama esa receta que lleva pollo, jengibre y salsa de soja?",ingredient_to_name
+113,"¿Cuál es el nombre de esa receta que lleva queso feta, pepino y aceitunas?",ingredient_to_name
+114,"¿Qué recetas puedo preparar con pollo, arroz, y brócoli?",ingredient_to_name
+115,"¿Qué platos puedo hacer si solo tengo huevos, pan, y leche?",ingredient_to_name
+116,"¿Cómo puedo utilizar papas, zanahorias, y cebollas para preparar una cena?",ingredient_to_name
+117,"¿Qué comidas puedo hacer con lentejas, arroz integral, y espinacas?",ingredient_to_name
+118,"¿Qué postres puedo preparar con harina, azúcar, y huevos?",ingredient_to_name
+119,"¿Qué recetas puedo hacer con pescado, patatas, y limón?",ingredient_to_name
+120,"¿Qué comidas puedo hacer con garbanzos, tomate, y cebolla?",ingredient_to_name
+121,"¿Qué platos puedo hacer con pasta, tomates, y queso?",ingredient_to_name
+122,"¿Qué comidas puedo hacer con carne molida, cebolla, y pimientos?",ingredient_to_name
+123,"¿Qué recetas puedo hacer con salmón, pasta, y brócoli?",ingredient_to_name
+124,"Oye, ¿con qué puedo cocinar estos huevos y un poco de queso?",ingredient_to_name
+125,¿Qué puedo hacer con estos plátanos que ya están muy maduros?,ingredient_to_name
+126,¿Con qué puedo acompañar este pollo que ya tengo cocido?,ingredient_to_name
+127,¿Tú sabes alguna receta que lleve aguacate y tomate?,ingredient_to_name
+128,"Amigo, tengo carne picada, cebolla y arroz, ¿alguna idea para una cena rápida?",ingredient_to_name
+129,¿Qué puedo hacer con estos frijoles que tengo en la despensa?,ingredient_to_name
+130,"Bro, tengo un poco de pasta y atún, ¿cómo los puedo juntar en un plato rico?",ingredient_to_name
+131,¿Qué puedo hacer con estos vegetales que ya están un poco marchitos?,ingredient_to_name
+132,"¡Hey! Tengo tortillas y queso, ¿se te ocurre algo que pueda hacer?",ingredient_to_name
+133,"Tengo pan, tomate, ajo y aceite de oliva, ¿alguna idea para una entrada sencilla y rica?",ingredient_to_name
+134,¿qué puedo hacer con estos plátanos que se me están poniendo negros?,ingredient_to_name
+135,"¿Qué puedo cocinar con un poco de pollo, arroz y salsa de tomate?",ingredient_to_name
+136,¿Alguna idea para preparar una cena con atún en lata y algunas verduras?,ingredient_to_name
+137,"Tengo un poco de pasta y queso rallado, ¿cómo puedo hacer para que quede rico?",ingredient_to_name
+138,¿Qué puedo hacer con estos restos de carne asada que tengo en la nevera?,ingredient_to_name
+139,"Tengo huevo, cebolla y jamón, ¿alguna idea para un desayuno rápido y sabroso?",ingredient_to_name
+140,¿Qué puedo hacer con estas sobras de pollo asado y algunas patatas?,ingredient_to_name
+141,"Tengo una lata de garbanzos y un poco de queso feta, ¿cómo puedo combinarlos para hacer una ensalada?",ingredient_to_name
+142,¿Qué puedo hacer con estos aguacates que están maduros pero no quiero hacer guacamole?,ingredient_to_name
+143,"Tengo un poco de pan duro, ¿alguna idea para aprovecharlo en una receta rica?",ingredient_to_name

@@ -1,272 +1,449 @@
 ,text,label
-0,¿Qué tipo de arroz se necesita para hacer arroz blanco?,cook
-1,¿Cómo se mide el arroz y el agua para hacer arroz blanco?,cook
-2,¿Cuánto tiempo lleva cocinar el arroz blanco?,cook
-3,¿Se necesita algún utensilio especial para hacer arroz blanco?,cook
-4,¿Es necesario lavar el arroz antes de cocinarlo?,cook
-5,¿Cómo se cocina el arroz blanco en una olla arrocera?,cook
-6,¿Se puede cocinar el arroz blanco en el microondas?,cook
-7,¿Se puede cocinar el arroz blanco en una sartén?,cook
-8,¿Se puede añadir algún sabor al arroz blanco mientras se cocina?,cook
-9,¿Se puede cocinar el arroz blanco con caldo de pollo en lugar de agua?,cook
-10,¿Cuánta sal debe añadirse al arroz mientras se cocina?,cook
-11,¿El arroz debe ser removido mientras se cocina?,cook
-12,¿Cómo se sabe cuándo el arroz está completamente cocido?,cook
-13,¿Se debe dejar reposar el arroz antes de servirlo?,cook
-14,¿Es mejor cocinar el arroz blanco con tapa o sin tapa?,cook
-15,¿Se puede cocinar el arroz blanco con comino u otras especias?,cook
-16,¿Es posible cocinar el arroz blanco en grandes cantidades?,cook
-17,¿Cómo se puede mantener el arroz blanco caliente hasta que sea servido?,cook
-18,¿Hay alguna técnica especial para lograr un arroz blanco suelto y no pegajoso?,cook
-19,¿Cómo se prepara el pescado antes de cocinarlo?,cook
-20,¿Es mejor cocinar el pescado fresco o congelado?,cook
-21,¿Cuál es la mejor forma de descongelar el pescado?,cook
-22,¿Qué métodos de cocción son los mejores para el pescado?,cook
-23,¿Con qué frecuencia hay que voltear el pescado mientras se cocina?,cook
-24,¿Cuánto tiempo se demora en cocinar un pescado fresco?,cook
-25,¿Cómo se puede saber cuándo el pescado está completamente cocido?,cook
-26,¿Se puede cocinar el pescado sin usar aceite?,cook
-27,¿Es posible cocinar el pescado en el horno?,cook
-28,¿Se puede cocinar el pescado en una parrilla o barbacoa?,cook
-29,¿Se puede hacer sopa de pescado?,cook
-30,¿Cómo se prepara el pescado para ahumarlo?,cook
-31,¿Cuál es la mejor forma de sazonar el pescado?,cook
-32,¿Es mejor marinar el pescado antes de cocinarlo?,cook
-33,¿Cómo se puede cocinar el pescado para servirlo en ensaladas?,cook
-34,¿Cómo se puede cocinar el pescado para hacer tacos o burritos?,cook
-35,¿Cómo se puede cocinar el pescado para preparar sushi?,cook
-36,¿Es recomendable quitar la piel del pescado antes de cocinarlo?,cook
-37,¿Cuáles son algunos acompañamientos saludables que pueden servirse con el pescado?,cook
-38,"¿Cuáles son las diferencias entre hervir, pochar y freír huevos?",cook
-39,¿Cuál es la mejor forma de cocinar los huevos para un desayuno saludable?,cook
-40,¿Cómo se puede cocinar los huevos para hacer huevos revueltos?,cook
-41,¿Cuál es la mejor forma de cocinar los huevos para hacer huevos fritos?,cook
-42,¿Cómo se puede cocinar los huevos para hacer una tortilla?,cook
-43,¿Cuánto tiempo debe durar la cocción de los huevos para obtener una yema líquida?,cook
-44,¿Es posible cocinar huevos sin aceite o mantequilla?,cook
-45,¿Cómo se pueden cocinar los huevos para incluirlos en una ensalada?,cook
-46,¿Cómo se puede cocinar los huevos para preparar una mayonesa casera?,cook
-47,¿Cuáles son las mejores especias o salsas para dar sabor a los huevos?,cook
-48,¿Cuál es el aceite más adecuado para cocinar a alta temperatura?,cook
-49,¿Qué tipos de aceite son saludables para cocinar?,cook
-50,¿Cómo se puede utilizar el aceite para saltear verduras?,cook
-51,¿Cuál es la mejor forma de utilizar el aceite para dorar carne?,cook
-52,¿Cómo se debe utilizar el aceite para freír alimentos?,cook
-53,¿Es necesario utilizar aceite para cocinar alimentos en el horno?,cook
-54,¿Cómo se puede combinar el aceite con otras especias para mejorar el sabor de los alimentos?,cook
-55,¿Cómo se puede utilizar el aceite para hacer salsas y aderezos caseros?,cook
-56,¿Cómo se debe almacenar el aceite para una mayor duración?,cook
-57,¿Cuál es la cantidad adecuada de aceite que se debe utilizar para cocinar distintos tipos de alimentos?,cook
-58,¿Cómo se pueden preparar los fideos para que queden al dente?,cook
-59,¿Cuál es el tiempo adecuado para cocinar distintos tipos de fideos?,cook
-60,¿Es necesario agregar sal al agua mientras se cocinan los fideos?,cook
-61,¿Cómo se pueden cocinar los fideos sin que se peguen?,cook
-62,¿Qué salsas y aderezos son ideales para combinar con fideos?,cook
-63,¿Es recomendable enjuagar los fideos después de cocinarlos?,cook
-64,¿Cómo se pueden hacer fideos caseros?,cook
-65,¿Cuál es la cantidad adecuada de agua para cocinar fideos?,cook
-66,¿Cómo se pueden sazonar los fideos para que tengan un sabor delicioso?,cook
-67,¿Se pueden cocinar distintos tipos de fideos juntos en la misma olla?,cook
-68,¿Cuánto tiempo se debe hervir el espagueti para que quede al dente?,cook
-69,¿Es necesario agregar aceite al agua mientras se cocina el espagueti?,cook
-70,¿Cómo se pueden evitar que los espaguetis se peguen mientras se cocinan?,cook
-71,¿Qué medidas se pueden tomar para asegurar un espagueti suave y cocido adecuadamente?,cook
-72,¿Cuál es la mejor forma de drenar el agua del espagueti después de cocinarlo?,cook
-73,¿Cómo se pueden agregar sabores adicionales al espagueti durante el proceso de cocción?,cook
-74,¿Es recomendable enjuagar los espaguetis después de cocinarlos?,cook
-75,¿Deben agregarse ingredientes adicionales al agua mientras se cocina el espagueti?,cook
-76,¿Cómo se pueden preparar salsas para servir con el espagueti después de ser cocido?,cook
-77,¿Qué es lo que más te gusta de cocinar?,cook
-78,¿Qué plato crees que se te da mejor cocinar?,cook
-79,¿Prefieres cocinar con ingredientes locales o exóticos?,cook
-80,¿Cuál es el utensilio de cocina que no puede faltar en tu cocina?,cook
-81,¿Cocinas a menudo o solo cuando tienes invitados?,cook
-82,¿Cuál es el ingrediente más raro que has utilizado al cocinar?,cook
-83,¿Tienes algún plato que siempre te sale mal?,cook
-84,¿Qué plato te gustaría aprender a cocinar?,cook
-85,¿Eres más de salado o de dulce al cocinar?,cook
-86,¿Prefieres cocinar solo o en compañía?,cook
-87,"¿Qué te parece más importante en la cocina, la presentación o el sabor?",cook
-88,¿Cuál es tu postre favorito para cocinar?,cook
-89,¿Qué es lo que te inspira a la hora de cocinar?,cook
-90,¿Cocinas según algún tipo de dieta o régimen alimenticio?,cook
-91,¿Qué es lo que más te gusta comer que no hayas cocinado tú?,cook
-92,¿Cuál es el ingrediente que no puede faltar en tu despensa?,cook
-93,¿Crees que la alimentación influye en el desarrollo de enfermedades?,cook
-94,¿Qué plato te encanta cocinar para tus amigos?,cook
-95,¿Eres más de cocinar en horno o en sartén?,cook
-96,¿Qué plato cocinarías para impresionar a alguien?,cook
-97,¿Cocinas según alguna cultura gastronómica en particular?,cook
-98,¿Qué plato cocinarías para una cena navideña?,cook
-99,¿Cuál fue la última vez que cocinaste para alguien?,cook
-100,¿Eres de los que cocinan siguiendo al pie de la letra la receta o les gusta improvisar?,cook
-101,¿Cuál es el plato que mejor te sale cocinar?,cook
-102,¿Cuál es tu restaurante favorito?,cook
-103,¿Cocinas según la estación del año?,cook
-104,¿Qué postre te encantaría aprender a cocinar?,cook
-105,¿Qué sientes cuando cocinas?,cook
-106,¿Cuál es el ingrediente que menos te gusta cocinar?,cook
-107,¿Crees que se pueden preparar platos deliciosos con ingredientes vegetarianos?,cook
-108,¿Cuál es tu plato principal favorito para cocinar?,cook
-109,¿Crees que cocinar es una habilidad o algo que se puede aprender?,cook
-110,¿Tienes algún consejo para mejorar la presentación de platos?,cook
-111,¿Cuál es la técnica culinaria más difícil que has intentado?,cook
-112,¿Cocinar es algo que haces solo por obligación o te gusta realmente?,cook
-113,¿Has intentado hacer algún plato gastronómico de un chef famoso?,cook
-114,¿Cocinas con música de fondo?,cook
-115,¿Cuál es el plato más elaborado que has cocinado?,cook
-116,¿Crees que los niños deberían aprender a cocinar desde pequeños?,cook
-117,¿Con qué alimento te gusta jugar más al cocinar?,cook
-118,¿Cuánto tiempo te lleva cocinar una cena elaborada para varios invitados?,cook
-119,¿Qué es lo que más te cuesta cocinar?,cook
-120,¿Qué utensilio de cocina te gustaría tener que aún no tienes?,cook
-121,¿Qué ingredientes te gusta combinar para hacer un plato diferente?,cook
-122,¿Cuál es la salsa que mejor te sale hacer?,cook
-123,¿Crees que cocinar puede ser una actividad relajante?,cook
-124,¿Cuál es el plato típico de tu país que mejor te sale cocinar?,cook
-125,¿Qué ingredientes te gusta utilizar en un plato picante?,cook
-126,¿Qué plato prepararías para una comida en familia?,cook
-127,¿Cuál es el plato casero que más te recuerda a tu infancia?,cook
-128,¿Cómo elegirías los ingredientes para hacer un plato?,cook
-129,¿Cuál es la salsa que más te gusta utilizar al cocinar?,cook
-130,¿Qué opinas de los programas de cocina en televisión?,cook
-131,¿Cómo tú y tus amigos se involucran para cocinar juntos en una reunión?,cook
-132,¿Cuál es el plato más saludable que sabes cocinar?,cook
-133,¿Cuál es tu condimento favorito al cocinar?,cook
-134,¿Con qué alimento eres más cuidadoso al cocinar?,cook
-135,¿Cómo crees que se puede mejorar la forma en que comemos hoy en día?,cook
-136,¿Cuál es la mejor especia para añadir a un plato aburrido?,cook
-137,¿Cuál es el corte de carne que mejor te sale cocinar?,cook
-138,¿Te gusta utilizar hierbas frescas al cocinar?,cook
-139,¿Qué consejos le darías a alguien que nunca ha cocinado antes?,cook
-140,¿Cuál es la combinación de sabor más rara que has intentado?,cook
-141,¿Qué es lo que más te gusta cocinar para el desayuno?,cook
-142,¿Cuál es la mejor comida que has probado en otro país?,cook
-143,¿Cuál es el mejor plato que has probado en un restaurante?,cook
-144,¿Con qué bebida te gusta maridar tus platos?,cook
-145,"¿Qué te parece más importante, la cantidad o la calidad de los ingredientes?",cook
-146,¿Cuál es la receta secreta de tu abuela que más te gusta?,cook
-147,¿Tienes algún alimento que siempre falla al cocinarlo?,cook
-148,¿Cuál es la temperatura perfecta para cocinar una carne?,cook
-149,¿Cocinas con productos orgánicos?,cook
-150,¿Cuál es la receta de otro país que más te gusta cocinar?,cook
-151,¿Cocinas con aceite de oliva u otro tipo de aceite?,cook
-152,¿Cuál es la mejor forma de cocinar un huevo?,cook
-153,¿Tienes algún truco para conseguir una comida más sabrosa?,cook
-154,¿Te preocupa la presentación de tus platos?,cook
-155,¿Cuál es el plato que cocinas cuando no cuentas con mucho tiempo?,cook
-156,¿Cocinas a menudo con carne o eres vegetariano?,cook
-157,¿Cuál es el plato más caro que has cocinado?,cook
-158,"¿Cómo prefieres cocinar la carne, a la parrilla o en el horno?",cook
-159,¿Cuál es tu opinión sobre la comida rápida?,cook
-160,¿Cuál es el plato que más te gusta que te hagan a ti?,cook
-161,¿Tienes algún plato perfecto para un día de invierno?,cook
-162,¿Cuál es la comida que más te aburre cocinar?,cook
-163,¿Qué opinas de la cocina molecular?,cook
-164,¿Cuál es el alimento más complicado de cocinar?,cook
-165,¿Tienes algún postre saludable que te guste cocinar?,cook
-166,¿Cuál es el mejor plato que has cocinado en tu vida?,cook
-167,¿Tienes alguna preparación salada con fruta?,cook
-168,¿Cuál es el mejor aceite para cocinar?,cook
-169,¿Cuál es tu opinión sobre las nuevas técnicas culinarias?,cook
-170,¿Cocinas con vino o cerveza?,cook
-171,¿Cuál es la diferencia de cocinar para ti solo y cocinar para varios invitados?,cook
-172,¿Tienes algún plato casero que nunca has logrado cocinar?,cook
-173,¿Cuál es el alimento que más te gusta utilizar al cocinar?,cook
-174,¿Eres de cocinar a fuego lento o a fuego alto?,cook
-175,¿Cuál es tu plato especial para cocinar en un día festivo?,cook
-176,Hola,others
-177,Buenos días cómo está usted,others
-178,Como te va?,others
-179,Y tu q tal,others
-180,Hola,others
-181,Como estás,others
-182,Hay alquien ?,others
-183,Quién eres,others
-184,Que tal,others
-185,Buen día,others
-186,Adiós,others
-187,Nos vemos,others
-188,Me voy,others
-189,Gracias,others
-190,Muchas gracias,others
-191,Es muy útil,others
-192,Gracias por ayudar,others
-193,Quien eres ?,others
-194,A que te dedicas,others
-195,Que haces,others
-196,Como está el tiempo hoy,others
-197,Que tal te ha ido el día,others
-198,Sabes de algun lugar donde vendan motos,others
-199,Sabes sobre teléfonos,others
-200,Cuál es el último automovil o carro que salió al mercado,others
-201,Si tengo muchos carros o autos o automoviles que puedo hacer con ellos,others
-202,¿Cuál es tu rutina diaria? ¿Qué ingredientes la conforman?,others
-203,¿Cuál es tu libro favorito? ¿Qué ingredientes crees que lo hacen único?,others
-204,¿Qué planes tienes para el fin de semana? ¿Cuáles son los ingredientes principales de tu diversión?,others
-205,¿Cuál es la película que más te ha gustado este año? ¿Qué ingredientes consideras que la hacen especial?,others
-206,¿Cómo describirías el amor? ¿Qué ingredientes lo conforman?,others
-207,¿Cuál es el mejor consejo que te han dado? ¿Cuáles son los ingredientes que lo hacen valioso?,others
-208,¿Qué música te gusta escuchar cuando te sientes nostálgico? ¿Qué ingredientes contiene esa música?,others
-209,¿Cuál es tu pasatiempo favorito? ¿Qué ingredientes consideras que lo hacen interesante?,others
-210,¿Qué papel crees que juegan las emociones en el aprendizaje? ¿Cuáles son los ingredientes de un buen aprendizaje emocional?,others
-211,¿Qué consejo le darías a alguien que quiere empezar a hacer ejercicio? ¿Cuáles son los ingredientes para una rutina de ejercicio efectiva?,others
-212,¿Cuál es el mejor consejo de negocios que has recibido? ¿Cuáles son los ingredientes de una buena estrategia de negocios?,others
-213,¿Qué habilidades crees que son las más importantes para tener éxito en la vida? ¿Cuáles son los ingredientes de una vida exitosa?,others
-214,¿Cuál es el país que más te ha gustado visitar hasta el momento,others
-215,? ¿Cuáles son los ingredientes de esa experiencia de viaje?,others
-216,¿Cómo describirías tu personalidad? ¿Qué ingredientes la componen?,others
-217,¿Qué te gustaría hacer si tuvieras un día libre sin restricciones de tiempo o dinero? ¿Qué ingredientes tendría tu día de ensueño?,others
-218,¿Crees que el dinero es importante para ser feliz? ¿Cuáles son los ingredientes de la felicidad verdadera?,others
-219,¿Qué necesitas para tener una buena noche de sueño? ¿Qué ingredientes tiene una buena noche de descanso?,others
-220,¿Cuáles son las habilidades más importantes que debes tener para ser un buen líder? ¿Cuáles son los ingredientes de un buen liderazgo?,others
-221,¿Crees que la alimentación afecta el estado de ánimo? ¿Cuáles son los ingredientes de una buena alimentación emocional?,others
-222,¿Cuál es tu deporte favorito?,others
-223,¿Cuál es el país que más te gustaría visitar?,others
-224,¿Cuál es tu película favorita?,others
-225,¿Eres más de perros o de gatos?,others
-226,¿Estás siguiendo alguna serie en este momento?,others
-227,¿Cuál es la mejor ciudad que has visitado?,others
-228,¿Tienes algún talento especial?,others
-229,¿Tocas algún instrumento musical?,others
-230,¿Cuál es tu comida favorita?,others
-231,¿Eres una persona madrugadora o nocturna?,others
-232,¿Cómo sueles pasar tus fines de semana?,others
-233,¿Cuál es el mejor concierto al que has asistido?,others
-234,¿Has tenido alguna experiencia paranormal?,others
-235,¿Cuál es tu canción favorita?,others
-236,¿Tienes algún deporte o actividad física que te gustaría aprender?,others
-237,¿Cuál es tu canción de karaoke favorita?,others
-238,¿Te gustaría tener una en un futuro y cuál sería?,others
-239,¿Tienes algún interés o pasatiempo poco común?,others
-240,¿Cuál es el mejor regalo que has recibido?,others
-241,¿Prefieres el mar o la montaña?,others
-242,¿Qué tipo de género musical no soportas?,others
-243,"¿Qué prefieres, leer un libro en físico o digital?",others
-244,¿Eres más de libros o de películas?,others
-245,¿Prefieres la ciudad o el campo?,others
-246,¿Cuál es tu videojuego favorito?,others
-247,¿Te gusta hacer deporte al aire libre o en un gimnasio?,others
-248,¿Cómo describirías tu personalidad en una sola palabra?,others
-249,¿Cuál es el mejor chiste que conoces?,others
-250,¿Tienes alguna habilidad que la gente desconoce?,others
-251,¿Qué idioma te gustaría aprender?,others
-252,¿Cuál es tu color favorito?,others
-253,¿Eres una persona supersticiosa?,others
-254,¿Cuál es tu estación del año favorita?,others
-255,¿Tienes algún lugar secreto al que te gusta escapar?,others
-256,¿Cuál es el mejor consejo que alguien te ha dado?,others
-257,¿Cuál es tu rutina diaria?,others
-258,¿Has vivido en alguna ciudad fuera de tu país de origen?,others
-259,"¿Qué prefieres, la playa o el río?",others
-260,¿Cuál crees que es tu mejor cualidad?,others
-261,¿Eres una persona más planificada o improvisada?,others
-262,¿Podrías vivir sin tu teléfono móvil?,others
-263,¿Cuál es el último lugar al que has viajado?,others
-264,¿Qué libro recomendarías para leer en un viaje?,others
-265,¿Eres alguien que perdona fácilmente?,others
-266,¿Cuál es tu rincón favorito de tu casa?,others
-267,¿Te gusta cambiar la decoración de tu casa o prefieres mantenerla siempre igual?,others
-268,¿Cuál es tu lugar turístico favorito en tu país de origen?,others
-269,¿Cómo es tu relación con tu familia?,others
-270,¿Qué te hace sentir más agradecido en la vida?,others
+0,¿Cuál es tu receta favorita para cocinar?,cook
+1,¿Cómo se hace una salsa de tomate casera?,cook
+2,¿Qué plato prepararías para una cena romántica?,cook
+3,¿Cuál es la diferencia entre freír y saltear?,cook
+4,¿Cómo se hace un buen risotto?,cook
+5,¿Qué ingredientes son esenciales para hacer una buena sopa?,cook
+6,¿Cómo se cocina el arroz correctamente?,cook
+7,¿Qué es lo que hace que una pizza sea perfecta?,cook
+8,¿Cuál es tu comida favorita para hacer en una parrilla?,cook
+9,¿Cómo se hace un buen guacamole?,cook
+10,¿Cuál es tu receta de postre favorita?,cook
+11,¿Cuál es la mejor manera de preparar un pollo asado?,cook
+12,¿Cómo se hace una buena ensalada?,cook
+13,¿Cuál es tu plato de pasta favorito?,cook
+14,¿Cómo se hace una buena masa para pizza?,cook
+15,¿Cómo se cocina el salmón de manera perfecta?,cook
+16,¿Qué plato es tu especialidad en la cocina?,cook
+17,¿Cómo se hace un buen pastel de zanahoria?,cook
+18,¿Cuál es tu tipo de queso favorito para usar en las recetas?,cook
+19,¿Cómo se cocina un filete a la parrilla?,cook
+20,¿Cómo se hace una buena mermelada de frutas?,cook
+21,¿Qué es lo que hace que un plato sea picante?,cook
+22,¿Cuál es el secreto para hacer un buen pollo frito?,cook
+23,¿Cómo se hace una buena paella?,cook
+24,¿Qué es lo que hace que un plato sea cremoso?,cook
+25,¿Cuál es tu bebida favorita para acompañar la comida?,cook
+26,¿Cómo se hace una buena lasaña?,cook
+27,¿Qué es lo que hace que una ensalada sea saludable?,cook
+28,¿Cuál es la mejor manera de cocinar el maíz?,cook
+29,¿Cómo se hace una buena tarta de manzana?,cook
+30,¿Cuál es el mejor método para hacer una sopa de caldo de pollo?,cook
+31,¿Cómo se hace una buena crema de champiñones?,cook
+32,¿Cuál es la mejor manera de cocinar el pescado?,cook
+33,¿Cómo se hace un buen estofado?,cook
+34,¿Qué plato te gusta hacer para impresionar a tus invitados?,cook
+35,¿Cuál es la mejor manera de cocinar la pasta?,cook
+36,¿Cómo se hace una buena sopa de fideos?,cook
+37,¿Cuál es tu salsa favorita para acompañar la carne?,cook
+38,¿Cómo se hace una buena tarta de queso?,cook
+39,¿Qué es lo que hace que una comida sea vegetariana?,cook
+40,¿Cómo se hace un buen puré de papas?,cook
+41,¿Cuál es el mejor método para hacer un guiso de carne?,cook
+42,¿Cómo se hace una buena sopa de pescado?,cook
+43,¿Cuál es tu receta favorita de huevos?,cook
+44,¿Cómo se hace una buena sopa de tomate?,cook
+45,¿Qué es lo que hace que una comida sea vegana?,cook
+46,¿Cuál es la mejor manera de cocinar las verduras?,cook
+47,¿Cómo se hace una buena salsa de pesto?,cook
+48,¿Cuál es la mejor manera de cocinar el arroz integral?,cook
+49,¿Cómo puedo hacer que mi comida sea más sabrosa sin agregar demasiada sal?,cook
+50,¿Cuál es la mejor manera de hacer una ensalada que sea atractiva y nutritiva?,cook
+51,¿Cómo puedo crear un menú equilibrado para una cena con amigos?,cook
+52,¿Cuáles son los ingredientes esenciales que siempre debería tener en mi despensa?,cook
+53,¿Qué tipos de aceites son los mejores para cocinar y por qué?,cook
+54,¿Cuál es la mejor forma de preparar una carne jugosa sin quemarla?,cook
+55,¿Cómo puedo preparar un buen plato de pasta?,cook
+56,¿Cuáles son las mejores técnicas para asar vegetales en la parrilla?,cook
+57,¿Cómo puedo hacer que mi comida sea más picante sin ser demasiado abrumadora?,cook
+58,¿Cuál es la mejor forma de hacer un guiso reconfortante?,cook
+59,¿Qué métodos de cocción son los más saludables?,cook
+60,¿Cómo puedo hacer que mi comida tenga un sabor ahumado sin una parrilla?,cook
+61,¿Cuáles son las mejores especias para usar en la cocina?,cook
+62,¿Cuál es la mejor forma de cocinar un pollo entero para que quede jugoso?,cook
+63,¿Cómo puedo hacer una salsa casera que sea fácil de preparar y deliciosa?,cook
+64,¿Qué consejos tienes para preparar una cena para una gran cantidad de personas?,cook
+65,¿Cómo puedo hacer que mi comida sea más crujiente sin freírla?,cook
+66,¿Cuál es la mejor forma de preparar una cena rápida pero saludable?,cook
+67,¿Qué trucos hay para cortar las verduras en cubos de manera uniforme?,cook
+68,¿Cómo puedo hacer que mis ensaladas sean más interesantes?,cook
+69,¿Cuál es la mejor forma de cocinar pescado para que no quede seco?,cook
+70,¿Cómo puedo hacer que mi comida tenga un sabor a ajo sutil pero delicioso?,cook
+71,¿Qué métodos de cocción son los mejores para cocinar carne de res?,cook
+72,¿Cuál es la mejor forma de hacer una sopa de verduras reconfortante?,cook
+73,¿Cómo puedo hacer una cena vegana que sea satisfactoria y deliciosa?,cook
+74,¿Qué consejos tienes para cocinar alimentos para personas con alergias alimentarias?,cook
+75,¿Cómo puedo hacer una comida en una sola sartén que sea fácil y sabrosa?,cook
+76,¿Cuál es la mejor forma de preparar una cena elegante para impresionar a mis invitados?,cook
+77,¿Cómo puedo hacer que mi comida tenga un sabor a limón fresco y delicioso?,cook
+78,¿Qué técnicas de cocción son las mejores para cocinar pavo?,cook
+79,¿Cuál es la mejor forma de preparar una cena rápida pero sabrosa?,cook
+80,¿Cómo puedo hacer que mi comida tenga un sabor a jengibre sutil pero delicioso?,cook
+81,¿Cuáles son los mejores acompañamientos para un asado?,cook
+82,¿Cómo puedo hacer que mis guarniciones sean más interesantes?,cook
+83,¿Cuál es la mejor forma de hacer una hamburguesa casera que sea jugosa y sabrosa?,cook
+84,¿Cómo puedo hacer una cena vegetariana que sea deliciosa y satisfactoria?,cook
+85,¿Qué tipo de arroz se necesita para hacer arroz blanco?,cook
+86,¿Cómo se mide el arroz y el agua para hacer arroz blanco?,cook
+87,¿Cuánto tiempo lleva cocinar el arroz blanco?,cook
+88,¿Se necesita algún utensilio especial para hacer arroz blanco?,cook
+89,¿Es necesario lavar el arroz antes de cocinarlo?,cook
+90,¿Cómo se cocina el arroz blanco en una olla arrocera?,cook
+91,¿Se puede cocinar el arroz blanco en el microondas?,cook
+92,¿Se puede cocinar el arroz blanco en una sartén?,cook
+93,¿Se puede añadir algún sabor al arroz blanco mientras se cocina?,cook
+94,¿Se puede cocinar el arroz blanco con caldo de pollo en lugar de agua?,cook
+95,¿Cuánta sal debe añadirse al arroz mientras se cocina?,cook
+96,¿El arroz debe ser removido mientras se cocina?,cook
+97,¿Cómo se sabe cuándo el arroz está completamente cocido?,cook
+98,¿Se debe dejar reposar el arroz antes de servirlo?,cook
+99,¿Es mejor cocinar el arroz blanco con tapa o sin tapa?,cook
+100,¿Se puede cocinar el arroz blanco con comino u otras especias?,cook
+101,¿Es posible cocinar el arroz blanco en grandes cantidades?,cook
+102,¿Cómo se puede mantener el arroz blanco caliente hasta que sea servido?,cook
+103,¿Hay alguna técnica especial para lograr un arroz blanco suelto y no pegajoso?,cook
+104,¿Cómo se prepara el pescado antes de cocinarlo?,cook
+105,¿Es mejor cocinar el pescado fresco o congelado?,cook
+106,¿Cuál es la mejor forma de descongelar el pescado?,cook
+107,¿Qué métodos de cocción son los mejores para el pescado?,cook
+108,¿Con qué frecuencia hay que voltear el pescado mientras se cocina?,cook
+109,¿Cuánto tiempo se demora en cocinar un pescado fresco?,cook
+110,¿Cómo se puede saber cuándo el pescado está completamente cocido?,cook
+111,¿Se puede cocinar el pescado sin usar aceite?,cook
+112,¿Es posible cocinar el pescado en el horno?,cook
+113,¿Se puede cocinar el pescado en una parrilla o barbacoa?,cook
+114,¿Se puede hacer sopa de pescado?,cook
+115,¿Cómo se prepara el pescado para ahumarlo?,cook
+116,¿Cuál es la mejor forma de sazonar el pescado?,cook
+117,¿Es mejor marinar el pescado antes de cocinarlo?,cook
+118,¿Cómo se puede cocinar el pescado para servirlo en ensaladas?,cook
+119,¿Cómo se puede cocinar el pescado para hacer tacos o burritos?,cook
+120,¿Cómo se puede cocinar el pescado para preparar sushi?,cook
+121,¿Es recomendable quitar la piel del pescado antes de cocinarlo?,cook
+122,¿Cuáles son algunos acompañamientos saludables que pueden servirse con el pescado?,cook
+123,"¿Cuáles son las diferencias entre hervir, pochar y freír huevos?",cook
+124,¿Cuál es la mejor forma de cocinar los huevos para un desayuno saludable?,cook
+125,¿Cómo se puede cocinar los huevos para hacer huevos revueltos?,cook
+126,¿Cuál es la mejor forma de cocinar los huevos para hacer huevos fritos?,cook
+127,¿Cómo se puede cocinar los huevos para hacer una tortilla?,cook
+128,¿Cuánto tiempo debe durar la cocción de los huevos para obtener una yema líquida?,cook
+129,¿Es posible cocinar huevos sin aceite o mantequilla?,cook
+130,¿Cómo se pueden cocinar los huevos para incluirlos en una ensalada?,cook
+131,¿Cómo se puede cocinar los huevos para preparar una mayonesa casera?,cook
+132,¿Cuáles son las mejores especias o salsas para dar sabor a los huevos?,cook
+133,¿Cuál es el aceite más adecuado para cocinar a alta temperatura?,cook
+134,¿Qué tipos de aceite son saludables para cocinar?,cook
+135,¿Cómo se puede utilizar el aceite para saltear verduras?,cook
+136,¿Cuál es la mejor forma de utilizar el aceite para dorar carne?,cook
+137,¿Cómo se debe utilizar el aceite para freír alimentos?,cook
+138,¿Es necesario utilizar aceite para cocinar alimentos en el horno?,cook
+139,¿Cómo se puede combinar el aceite con otras especias para mejorar el sabor de los alimentos?,cook
+140,¿Cómo se puede utilizar el aceite para hacer salsas y aderezos caseros?,cook
+141,¿Cómo se debe almacenar el aceite para una mayor duración?,cook
+142,¿Cuál es la cantidad adecuada de aceite que se debe utilizar para cocinar distintos tipos de alimentos?,cook
+143,¿Cómo se pueden preparar los fideos para que queden al dente?,cook
+144,¿Cuál es el tiempo adecuado para cocinar distintos tipos de fideos?,cook
+145,¿Es necesario agregar sal al agua mientras se cocinan los fideos?,cook
+146,¿Cómo se pueden cocinar los fideos sin que se peguen?,cook
+147,¿Qué salsas y aderezos son ideales para combinar con fideos?,cook
+148,¿Es recomendable enjuagar los fideos después de cocinarlos?,cook
+149,¿Cómo se pueden hacer fideos caseros?,cook
+150,¿Cuál es la cantidad adecuada de agua para cocinar fideos?,cook
+151,¿Cómo se pueden sazonar los fideos para que tengan un sabor delicioso?,cook
+152,¿Se pueden cocinar distintos tipos de fideos juntos en la misma olla?,cook
+153,¿Cuánto tiempo se debe hervir el espagueti para que quede al dente?,cook
+154,¿Es necesario agregar aceite al agua mientras se cocina el espagueti?,cook
+155,¿Cómo se pueden evitar que los espaguetis se peguen mientras se cocinan?,cook
+156,¿Qué medidas se pueden tomar para asegurar un espagueti suave y cocido adecuadamente?,cook
+157,¿Cuál es la mejor forma de drenar el agua del espagueti después de cocinarlo?,cook
+158,¿Cómo se pueden agregar sabores adicionales al espagueti durante el proceso de cocción?,cook
+159,¿Es recomendable enjuagar los espaguetis después de cocinarlos?,cook
+160,¿Deben agregarse ingredientes adicionales al agua mientras se cocina el espagueti?,cook
+161,¿Cómo se pueden preparar salsas para servir con el espagueti después de ser cocido?,cook
+162,¿Qué es lo que más te gusta de cocinar?,cook
+163,¿Qué plato crees que se te da mejor cocinar?,cook
+164,¿Prefieres cocinar con ingredientes locales o exóticos?,cook
+165,¿Cuál es el utensilio de cocina que no puede faltar en tu cocina?,cook
+166,¿Cocinas a menudo o solo cuando tienes invitados?,cook
+167,¿Cuál es el ingrediente más raro que has utilizado al cocinar?,cook
+168,¿Tienes algún plato que siempre te sale mal?,cook
+169,¿Qué plato te gustaría aprender a cocinar?,cook
+170,¿Eres más de salado o de dulce al cocinar?,cook
+171,¿Prefieres cocinar solo o en compañía?,cook
+172,"¿Qué te parece más importante en la cocina, la presentación o el sabor?",cook
+173,¿Cuál es tu postre favorito para cocinar?,cook
+174,¿Qué es lo que te inspira a la hora de cocinar?,cook
+175,¿Cocinas según algún tipo de dieta o régimen alimenticio?,cook
+176,¿Qué es lo que más te gusta comer que no hayas cocinado tú?,cook
+177,¿Cuál es el ingrediente que no puede faltar en tu despensa?,cook
+178,¿Crees que la alimentación influye en el desarrollo de enfermedades?,cook
+179,¿Qué plato te encanta cocinar para tus amigos?,cook
+180,¿Eres más de cocinar en horno o en sartén?,cook
+181,¿Qué plato cocinarías para impresionar a alguien?,cook
+182,¿Cocinas según alguna cultura gastronómica en particular?,cook
+183,¿Qué plato cocinarías para una cena navideña?,cook
+184,¿Cuál fue la última vez que cocinaste para alguien?,cook
+185,¿Eres de los que cocinan siguiendo al pie de la letra la receta o les gusta improvisar?,cook
+186,¿Cuál es el plato que mejor te sale cocinar?,cook
+187,¿Cuál es tu restaurante favorito?,cook
+188,¿Cocinas según la estación del año?,cook
+189,¿Qué postre te encantaría aprender a cocinar?,cook
+190,¿Qué sientes cuando cocinas?,cook
+191,¿Cuál es el ingrediente que menos te gusta cocinar?,cook
+192,¿Crees que se pueden preparar platos deliciosos con ingredientes vegetarianos?,cook
+193,¿Cuál es tu plato principal favorito para cocinar?,cook
+194,¿Crees que cocinar es una habilidad o algo que se puede aprender?,cook
+195,¿Tienes algún consejo para mejorar la presentación de platos?,cook
+196,¿Cuál es la técnica culinaria más difícil que has intentado?,cook
+197,¿Cocinar es algo que haces solo por obligación o te gusta realmente?,cook
+198,¿Has intentado hacer algún plato gastronómico de un chef famoso?,cook
+199,¿Cocinas con música de fondo?,cook
+200,¿Cuál es el plato más elaborado que has cocinado?,cook
+201,¿Crees que los niños deberían aprender a cocinar desde pequeños?,cook
+202,¿Con qué alimento te gusta jugar más al cocinar?,cook
+203,¿Cuánto tiempo te lleva cocinar una cena elaborada para varios invitados?,cook
+204,¿Qué es lo que más te cuesta cocinar?,cook
+205,¿Qué utensilio de cocina te gustaría tener que aún no tienes?,cook
+206,¿Qué ingredientes te gusta combinar para hacer un plato diferente?,cook
+207,¿Cuál es la salsa que mejor te sale hacer?,cook
+208,¿Crees que cocinar puede ser una actividad relajante?,cook
+209,¿Cuál es el plato típico de tu país que mejor te sale cocinar?,cook
+210,¿Qué ingredientes te gusta utilizar en un plato picante?,cook
+211,¿Qué plato prepararías para una comida en familia?,cook
+212,¿Cuál es el plato casero que más te recuerda a tu infancia?,cook
+213,¿Cómo elegirías los ingredientes para hacer un plato?,cook
+214,¿Cuál es la salsa que más te gusta utilizar al cocinar?,cook
+215,¿Qué opinas de los programas de cocina en televisión?,cook
+216,¿Cómo tú y tus amigos se involucran para cocinar juntos en una reunión?,cook
+217,¿Cuál es el plato más saludable que sabes cocinar?,cook
+218,¿Cuál es tu condimento favorito al cocinar?,cook
+219,¿Con qué alimento eres más cuidadoso al cocinar?,cook
+220,¿Cómo crees que se puede mejorar la forma en que comemos hoy en día?,cook
+221,¿Cuál es la mejor especia para añadir a un plato aburrido?,cook
+222,¿Cuál es el corte de carne que mejor te sale cocinar?,cook
+223,¿Te gusta utilizar hierbas frescas al cocinar?,cook
+224,¿Qué consejos le darías a alguien que nunca ha cocinado antes?,cook
+225,¿Cuál es la combinación de sabor más rara que has intentado?,cook
+226,¿Qué es lo que más te gusta cocinar para el desayuno?,cook
+227,¿Cuál es la mejor comida que has probado en otro país?,cook
+228,¿Cuál es el mejor plato que has probado en un restaurante?,cook
+229,¿Con qué bebida te gusta maridar tus platos?,cook
+230,"¿Qué te parece más importante, la cantidad o la calidad de los ingredientes?",cook
+231,¿Cuál es la receta secreta de tu abuela que más te gusta?,cook
+232,¿Tienes algún alimento que siempre falla al cocinarlo?,cook
+233,¿Cuál es la temperatura perfecta para cocinar una carne?,cook
+234,¿Cocinas con productos orgánicos?,cook
+235,¿Cuál es la receta de otro país que más te gusta cocinar?,cook
+236,¿Cocinas con aceite de oliva u otro tipo de aceite?,cook
+237,¿Cuál es la mejor forma de cocinar un huevo?,cook
+238,¿Tienes algún truco para conseguir una comida más sabrosa?,cook
+239,¿Te preocupa la presentación de tus platos?,cook
+240,¿Cuál es el plato que cocinas cuando no cuentas con mucho tiempo?,cook
+241,¿Cocinas a menudo con carne o eres vegetariano?,cook
+242,¿Cuál es el plato más caro que has cocinado?,cook
+243,"¿Cómo prefieres cocinar la carne, a la parrilla o en el horno?",cook
+244,¿Cuál es tu opinión sobre la comida rápida?,cook
+245,¿Cuál es el plato que más te gusta que te hagan a ti?,cook
+246,¿Tienes algún plato perfecto para un día de invierno?,cook
+247,¿Cuál es la comida que más te aburre cocinar?,cook
+248,¿Qué opinas de la cocina molecular?,cook
+249,¿Cuál es el alimento más complicado de cocinar?,cook
+250,¿Tienes algún postre saludable que te guste cocinar?,cook
+251,¿Cuál es el mejor plato que has cocinado en tu vida?,cook
+252,¿Tienes alguna preparación salada con fruta?,cook
+253,¿Cuál es el mejor aceite para cocinar?,cook
+254,¿Cuál es tu opinión sobre las nuevas técnicas culinarias?,cook
+255,¿Cocinas con vino o cerveza?,cook
+256,¿Cuál es la diferencia de cocinar para ti solo y cocinar para varios invitados?,cook
+257,¿Tienes algún plato casero que nunca has logrado cocinar?,cook
+258,¿Cuál es el alimento que más te gusta utilizar al cocinar?,cook
+259,¿Eres de cocinar a fuego lento o a fuego alto?,cook
+260,¿Cuál es tu plato especial para cocinar en un día festivo?,cook
+261,Hola,others
+262,Buenos días cómo está usted,others
+263,Cómo te va?,others
+264,Y tu que tal,others
+265,Hola,others
+266,Cómo estás,others
+267,Hay alquien ?,others
+268,Quién eres,others
+269,Que tal,others
+270,Buen día,others
+271,Adiós,others
+272,Nos vemos,others
+273,Me voy,others
+274,Gracias,others
+275,Muchas gracias,others
+276,Es muy útil,others
+277,Gracias por ayudar,others
+278,Quién eres ?,others
+279,A que te dedicas,others
+280,Qué haces,others
+281,Cómo está el tiempo hoy,others
+282,Qué tal te ha ido el día,others
+283,Sabes de algun lugar donde vendan motos,others
+284,Sabes sobre teléfonos,others
+285,Cuál es el último automovil o carro que salió al mercado,others
+286,Si tengo muchos carros o autos o automoviles que puedo hacer con ellos?,others
+287,¿Cuál es tu canción favorita?,others
+288,¿Qué libro te ha marcado más?,others
+289,¿Cuál es tu deporte favorito?,others
+290,¿Cuál ha sido el mejor viaje que has hecho?,others
+291,¿Qué es lo que más te gusta hacer en tu tiempo libre?,others
+292,¿Cuál es tu serie de televisión favorita?,others
+293,¿Cuál ha sido la mejor película que has visto?,others
+294,¿Cuál es tu género musical favorito?,others
+295,¿Cuál es tu color favorito?,others
+296,¿Qué idioma te gustaría aprender?,others
+297,¿Qué es lo que más te gusta de tu ciudad?,others
+298,¿Cuál ha sido la experiencia más emocionante de tu vida?,others
+299,¿Cuál es tu lugar favorito en el mundo?,others
+300,¿Cuál es tu juego de mesa favorito?,others
+301,¿Cuál es el mejor consejo que te han dado?,others
+302,¿Qué te gustaría hacer en el futuro?,others
+303,¿Cuál es tu animal favorito?,others
+304,¿Cuál es el mejor regalo que has recibido?,others
+305,¿Qué es lo que más te gusta de ti mismo?,others
+306,¿Cuál ha sido la situación más divertida que has vivido?,others
+307,¿Cuál es tu actor o actriz favorito/a?,others
+308,¿Cuál ha sido la peor experiencia que has tenido en tu vida?,others
+309,¿Cuál es tu estilo de música menos favorito?,others
+310,¿Qué es lo que más te gusta de tu trabajo?,others
+311,¿Cuál es tu hobby favorito?,others
+312,¿Cuál es tu canción que no puedes dejar de escuchar últimamente?,others
+313,¿Qué es lo que más te gusta de la naturaleza?,others
+314,¿Cuál es tu comida favorita?,others
+315,¿Cuál es el lugar más bonito que has visitado?,others
+316,¿Qué es lo que te gusta hacer cuando estás triste?,others
+317,¿Cuál es tu sueño por cumplir?,others
+318,¿Qué es lo que más te gusta de las personas?,others
+319,¿Cuál es tu bebida favorita?,others
+320,¿Qué es lo que te gustaría cambiar del mundo?,others
+321,¿Cuál es tu actor o actriz menos favorito/a?,others
+322,¿Cuál es el mejor consejo que le has dado a alguien?,others
+323,¿Qué es lo que más te gusta de las redes sociales?,others
+324,¿Cuál es tu estación del año favorita?,others
+325,¿Qué es lo que más te gusta de la tecnología?,others
+326,¿Cuál es tu lugar favorito para relajarte?,others
+327,¿Qué es lo que te hace sentir más vivo?,others
+328,¿Cuál es tu mejor recuerdo de la infancia?,others
+329,¿Cuál es tu tipo de película favorita?,others
+330,¿Qué es lo que más te gusta de la cultura de tu país?,others
+331,¿Cuál es tu canción de la infancia favorita?,others
+332,¿Cuál es el mejor consejo que le has dado a un amigo?,others
+333,¿Qué es lo que te hace sentir agradecido?,others
+334,¿Cuál es tu objeto favorito?,others
+335,¿Qué es lo que te hace sentir orgulloso?,others
+336,¿Cuál es tu forma favorita de ejercicio?,others
+337,¿Cuál es tu mejor habilidad?,others
+338,¿Qué es lo que te hace sentir motivado?,others
+339,¿Qué onda?,others
+340,¿Cómo te va todo?,others
+341,¿Qué cuentas?,others
+342,¿Qué has estado haciendo últimamente?,others
+343,¿Cómo estuvo tu día?,others
+344,¿Qué planes tienes para el fin de semana?,others
+345,¿Vamos a salir hoy?,others
+346,¿Te gustaría ir a tomar algo?,others
+347,¿Qué te parece si vamos al cine?,others
+348,¿Cómo va todo en el trabajo/la escuela?,others
+349,¿Qué estás haciendo por la tarde?,others
+350,¿Quieres ir a dar una vuelta?,others
+351,¿Qué estás leyendo/escuchando/viendo?,others
+352,¿Te ha pasado algo interesante últimamente?,others
+353,¿Cuál es tu comida favorita?,others
+354,¿Qué música te gusta?,others
+355,¿Has estado en algún concierto recientemente?,others
+356,¿Cuál es tu lugar favorito para salir a cenar?,others
+357,¿Qué deporte te gusta?,others
+358,¿Tienes algún hobby?,others
+359,¿Cuál es tu película favorita?,others
+360,¿Te gusta viajar?,others
+361,¿Qué país te gustaría visitar?,others
+362,¿Tienes algún lugar favorito en tu ciudad?,others
+363,¿Cuál es tu deporte favorito para ver en la televisión?,others
+364,¿Qué libro estás leyendo?,others
+365,¿Cuál es tu género musical favorito?,others
+366,¿Te gusta la playa o la montaña?,others
+367,¿Cuál es tu canción favorita?,others
+368,¿Te gusta cocinar?,others
+369,¿Cuál es tu bebida favorita?,others
+370,¿Qué es lo que más te gusta de la primavera/verano/otoño/invierno?,others
+371,¿Tienes alguna mascota?,others
+372,¿Qué te hace feliz?,others
+373,¿Cuál es tu color favorito?,others
+374,¿Te gusta ir de compras?,others
+375,¿Qué piensas del cambio climático?,others
+376,¿Cuál es tu programa de televisión favorito?,others
+377,¿Qué tipo de comida no te gusta?,others
+378,¿Cuál es tu canción que no puedes dejar de escuchar últimamente?,others
+379,¿Cuál es tu rutina diaria? ¿Qué ingredientes la conforman?,others
+380,¿Cuál es tu libro favorito? ¿Qué ingredientes crees que lo hacen único?,others
+381,¿Qué planes tienes para el fin de semana? ¿Cuáles son los ingredientes principales de tu diversión?,others
+382,¿Cuál es la película que más te ha gustado este año? ¿Qué ingredientes consideras que la hacen especial?,others
+383,¿Cómo describirías el amor? ¿Qué ingredientes lo conforman?,others
+384,¿Cuál es el mejor consejo que te han dado? ¿Cuáles son los ingredientes que lo hacen valioso?,others
+385,¿Qué música te gusta escuchar cuando te sientes nostálgico? ¿Qué ingredientes contiene esa música?,others
+386,¿Cuál es tu pasatiempo favorito? ¿Qué ingredientes consideras que lo hacen interesante?,others
+387,¿Qué papel crees que juegan las emociones en el aprendizaje? ¿Cuáles son los ingredientes de un buen aprendizaje emocional?,others
+388,¿Qué consejo le darías a alguien que quiere empezar a hacer ejercicio? ¿Cuáles son los ingredientes para una rutina de ejercicio efectiva?,others
+389,¿Cuál es el mejor consejo de negocios que has recibido? ¿Cuáles son los ingredientes de una buena estrategia de negocios?,others
+390,¿Qué habilidades crees que son las más importantes para tener éxito en la vida? ¿Cuáles son los ingredientes de una vida exitosa?,others
+391,¿Cuál es el país que más te ha gustado visitar hasta el momento,others
+392,? ¿Cuáles son los ingredientes de esa experiencia de viaje?,others
+393,¿Cómo describirías tu personalidad? ¿Qué ingredientes la componen?,others
+394,¿Qué te gustaría hacer si tuvieras un día libre sin restricciones de tiempo o dinero? ¿Qué ingredientes tendría tu día de ensueño?,others
+395,¿Crees que el dinero es importante para ser feliz? ¿Cuáles son los ingredientes de la felicidad verdadera?,others
+396,¿Qué necesitas para tener una buena noche de sueño? ¿Qué ingredientes tiene una buena noche de descanso?,others
+397,¿Cuáles son las habilidades más importantes que debes tener para ser un buen líder? ¿Cuáles son los ingredientes de un buen liderazgo?,others
+398,¿Crees que la alimentación afecta el estado de ánimo? ¿Cuáles son los ingredientes de una buena alimentación emocional?,others
+399,¿Cuál es tu deporte favorito?,others
+400,¿Cuál es el país que más te gustaría visitar?,others
+401,¿Cuál es tu película favorita?,others
+402,¿Eres más de perros o de gatos?,others
+403,¿Estás siguiendo alguna serie en este momento?,others
+404,¿Cuál es la mejor ciudad que has visitado?,others
+405,¿Tienes algún talento especial?,others
+406,¿Tocas algún instrumento musical?,others
+407,¿Cuál es tu comida favorita?,others
+408,¿Eres una persona madrugadora o nocturna?,others
+409,¿Cómo sueles pasar tus fines de semana?,others
+410,¿Cuál es el mejor concierto al que has asistido?,others
+411,¿Has tenido alguna experiencia paranormal?,others
+412,¿Cuál es tu canción favorita?,others
+413,¿Tienes algún deporte o actividad física que te gustaría aprender?,others
+414,¿Cuál es tu canción de karaoke favorita?,others
+415,¿Te gustaría tener una en un futuro y cuál sería?,others
+416,¿Tienes algún interés o pasatiempo poco común?,others
+417,¿Cuál es el mejor regalo que has recibido?,others
+418,¿Prefieres el mar o la montaña?,others
+419,¿Qué tipo de género musical no soportas?,others
+420,"¿Qué prefieres, leer un libro en físico o digital?",others
+421,¿Eres más de libros o de películas?,others
+422,¿Prefieres la ciudad o el campo?,others
+423,¿Cuál es tu videojuego favorito?,others
+424,¿Te gusta hacer deporte al aire libre o en un gimnasio?,others
+425,¿Cómo describirías tu personalidad en una sola palabra?,others
+426,¿Cuál es el mejor chiste que conoces?,others
+427,¿Tienes alguna habilidad que la gente desconoce?,others
+428,¿Qué idioma te gustaría aprender?,others
+429,¿Cuál es tu color favorito?,others
+430,¿Eres una persona supersticiosa?,others
+431,¿Cuál es tu estación del año favorita?,others
+432,¿Tienes algún lugar secreto al que te gusta escapar?,others
+433,¿Cuál es el mejor consejo que alguien te ha dado?,others
+434,¿Cuál es tu rutina diaria?,others
+435,¿Has vivido en alguna ciudad fuera de tu país de origen?,others
+436,"¿Qué prefieres, la playa o el río?",others
+437,¿Cuál crees que es tu mejor cualidad?,others
+438,¿Eres una persona más planificada o improvisada?,others
+439,¿Podrías vivir sin tu teléfono móvil?,others
+440,¿Cuál es el último lugar al que has viajado?,others
+441,¿Qué libro recomendarías para leer en un viaje?,others
+442,¿Eres alguien que perdona fácilmente?,others
+443,¿Cuál es tu rincón favorito de tu casa?,others
+444,¿Te gusta cambiar la decoración de tu casa o prefieres mantenerla siempre igual?,others
+445,¿Cuál es tu lugar turístico favorito en tu país de origen?,others
+446,¿Cómo es tu relación con tu familia?,others
+447,¿Qué te hace sentir más agradecido en la vida?,others
