@@ -260,190 +260,836 @@
 258,¿Cuál es el alimento que más te gusta utilizar al cocinar?,cook
 259,¿Eres de cocinar a fuego lento o a fuego alto?,cook
 260,¿Cuál es tu plato especial para cocinar en un día festivo?,cook
-261,Hola,others
-262,Buenos días cómo está usted,others
-263,Cómo te va?,others
-264,Y tu que tal,others
-265,Hola,others
-266,Cómo estás,others
-267,Hay alquien ?,others
-268,Quién eres,others
-269,Que tal,others
-270,Buen día,others
-271,Adiós,others
-272,Nos vemos,others
-273,Me voy,others
-274,Gracias,others
-275,Muchas gracias,others
-276,Es muy útil,others
-277,Gracias por ayudar,others
-278,Quién eres ?,others
-279,A que te dedicas,others
-280,Qué haces,others
-281,Cómo está el tiempo hoy,others
-282,Qué tal te ha ido el día,others
-283,Sabes de algun lugar donde vendan motos,others
-284,Sabes sobre teléfonos,others
-285,Cuál es el último automovil o carro que salió al mercado,others
-286,Si tengo muchos carros o autos o automoviles que puedo hacer con ellos?,others
-287,¿Cuál es tu canción favorita?,others
-288,¿Qué libro te ha marcado más?,others
-289,¿Cuál es tu deporte favorito?,others
-290,¿Cuál ha sido el mejor viaje que has hecho?,others
-291,¿Qué es lo que más te gusta hacer en tu tiempo libre?,others
-292,¿Cuál es tu serie de televisión favorita?,others
-293,¿Cuál ha sido la mejor película que has visto?,others
-294,¿Cuál es tu género musical favorito?,others
-295,¿Cuál es tu color favorito?,others
-296,¿Qué idioma te gustaría aprender?,others
-297,¿Qué es lo que más te gusta de tu ciudad?,others
-298,¿Cuál ha sido la experiencia más emocionante de tu vida?,others
-299,¿Cuál es tu lugar favorito en el mundo?,others
-300,¿Cuál es tu juego de mesa favorito?,others
-301,¿Cuál es el mejor consejo que te han dado?,others
-302,¿Qué te gustaría hacer en el futuro?,others
-303,¿Cuál es tu animal favorito?,others
-304,¿Cuál es el mejor regalo que has recibido?,others
-305,¿Qué es lo que más te gusta de ti mismo?,others
-306,¿Cuál ha sido la situación más divertida que has vivido?,others
-307,¿Cuál es tu actor o actriz favorito/a?,others
-308,¿Cuál ha sido la peor experiencia que has tenido en tu vida?,others
-309,¿Cuál es tu estilo de música menos favorito?,others
-310,¿Qué es lo que más te gusta de tu trabajo?,others
-311,¿Cuál es tu hobby favorito?,others
-312,¿Cuál es tu canción que no puedes dejar de escuchar últimamente?,others
-313,¿Qué es lo que más te gusta de la naturaleza?,others
-314,¿Cuál es tu comida favorita?,others
-315,¿Cuál es el lugar más bonito que has visitado?,others
-316,¿Qué es lo que te gusta hacer cuando estás triste?,others
-317,¿Cuál es tu sueño por cumplir?,others
-318,¿Qué es lo que más te gusta de las personas?,others
-319,¿Cuál es tu bebida favorita?,others
-320,¿Qué es lo que te gustaría cambiar del mundo?,others
-321,¿Cuál es tu actor o actriz menos favorito/a?,others
-322,¿Cuál es el mejor consejo que le has dado a alguien?,others
-323,¿Qué es lo que más te gusta de las redes sociales?,others
-324,¿Cuál es tu estación del año favorita?,others
-325,¿Qué es lo que más te gusta de la tecnología?,others
-326,¿Cuál es tu lugar favorito para relajarte?,others
-327,¿Qué es lo que te hace sentir más vivo?,others
-328,¿Cuál es tu mejor recuerdo de la infancia?,others
-329,¿Cuál es tu tipo de película favorita?,others
-330,¿Qué es lo que más te gusta de la cultura de tu país?,others
-331,¿Cuál es tu canción de la infancia favorita?,others
-332,¿Cuál es el mejor consejo que le has dado a un amigo?,others
-333,¿Qué es lo que te hace sentir agradecido?,others
-334,¿Cuál es tu objeto favorito?,others
-335,¿Qué es lo que te hace sentir orgulloso?,others
-336,¿Cuál es tu forma favorita de ejercicio?,others
-337,¿Cuál es tu mejor habilidad?,others
-338,¿Qué es lo que te hace sentir motivado?,others
-339,¿Qué onda?,others
-340,¿Cómo te va todo?,others
-341,¿Qué cuentas?,others
-342,¿Qué has estado haciendo últimamente?,others
-343,¿Cómo estuvo tu día?,others
-344,¿Qué planes tienes para el fin de semana?,others
-345,¿Vamos a salir hoy?,others
-346,¿Te gustaría ir a tomar algo?,others
-347,¿Qué te parece si vamos al cine?,others
-348,¿Cómo va todo en el trabajo/la escuela?,others
-349,¿Qué estás haciendo por la tarde?,others
-350,¿Quieres ir a dar una vuelta?,others
-351,¿Qué estás leyendo/escuchando/viendo?,others
-352,¿Te ha pasado algo interesante últimamente?,others
-353,¿Cuál es tu comida favorita?,others
-354,¿Qué música te gusta?,others
-355,¿Has estado en algún concierto recientemente?,others
-356,¿Cuál es tu lugar favorito para salir a cenar?,others
-357,¿Qué deporte te gusta?,others
-358,¿Tienes algún hobby?,others
-359,¿Cuál es tu película favorita?,others
-360,¿Te gusta viajar?,others
-361,¿Qué país te gustaría visitar?,others
-362,¿Tienes algún lugar favorito en tu ciudad?,others
-363,¿Cuál es tu deporte favorito para ver en la televisión?,others
-364,¿Qué libro estás leyendo?,others
-365,¿Cuál es tu género musical favorito?,others
-366,¿Te gusta la playa o la montaña?,others
-367,¿Cuál es tu canción favorita?,others
-368,¿Te gusta cocinar?,others
-369,¿Cuál es tu bebida favorita?,others
-370,¿Qué es lo que más te gusta de la primavera/verano/otoño/invierno?,others
-371,¿Tienes alguna mascota?,others
-372,¿Qué te hace feliz?,others
-373,¿Cuál es tu color favorito?,others
-374,¿Te gusta ir de compras?,others
-375,¿Qué piensas del cambio climático?,others
-376,¿Cuál es tu programa de televisión favorito?,others
-377,¿Qué tipo de comida no te gusta?,others
-378,¿Cuál es tu canción que no puedes dejar de escuchar últimamente?,others
-379,¿Cuál es tu rutina diaria? ¿Qué ingredientes la conforman?,others
-380,¿Cuál es tu libro favorito? ¿Qué ingredientes crees que lo hacen único?,others
-381,¿Qué planes tienes para el fin de semana? ¿Cuáles son los ingredientes principales de tu diversión?,others
-382,¿Cuál es la película que más te ha gustado este año? ¿Qué ingredientes consideras que la hacen especial?,others
-383,¿Cómo describirías el amor? ¿Qué ingredientes lo conforman?,others
-384,¿Cuál es el mejor consejo que te han dado? ¿Cuáles son los ingredientes que lo hacen valioso?,others
-385,¿Qué música te gusta escuchar cuando te sientes nostálgico? ¿Qué ingredientes contiene esa música?,others
-386,¿Cuál es tu pasatiempo favorito? ¿Qué ingredientes consideras que lo hacen interesante?,others
-387,¿Qué papel crees que juegan las emociones en el aprendizaje? ¿Cuáles son los ingredientes de un buen aprendizaje emocional?,others
-388,¿Qué consejo le darías a alguien que quiere empezar a hacer ejercicio? ¿Cuáles son los ingredientes para una rutina de ejercicio efectiva?,others
-389,¿Cuál es el mejor consejo de negocios que has recibido? ¿Cuáles son los ingredientes de una buena estrategia de negocios?,others
-390,¿Qué habilidades crees que son las más importantes para tener éxito en la vida? ¿Cuáles son los ingredientes de una vida exitosa?,others
-391,¿Cuál es el país que más te ha gustado visitar hasta el momento,others
-392,? ¿Cuáles son los ingredientes de esa experiencia de viaje?,others
-393,¿Cómo describirías tu personalidad? ¿Qué ingredientes la componen?,others
-394,¿Qué te gustaría hacer si tuvieras un día libre sin restricciones de tiempo o dinero? ¿Qué ingredientes tendría tu día de ensueño?,others
-395,¿Crees que el dinero es importante para ser feliz? ¿Cuáles son los ingredientes de la felicidad verdadera?,others
-396,¿Qué necesitas para tener una buena noche de sueño? ¿Qué ingredientes tiene una buena noche de descanso?,others
-397,¿Cuáles son las habilidades más importantes que debes tener para ser un buen líder? ¿Cuáles son los ingredientes de un buen liderazgo?,others
-398,¿Crees que la alimentación afecta el estado de ánimo? ¿Cuáles son los ingredientes de una buena alimentación emocional?,others
-399,¿Cuál es tu deporte favorito?,others
-400,¿Cuál es el país que más te gustaría visitar?,others
-401,¿Cuál es tu película favorita?,others
-402,¿Eres más de perros o de gatos?,others
-403,¿Estás siguiendo alguna serie en este momento?,others
-404,¿Cuál es la mejor ciudad que has visitado?,others
-405,¿Tienes algún talento especial?,others
-406,¿Tocas algún instrumento musical?,others
-407,¿Cuál es tu comida favorita?,others
-408,¿Eres una persona madrugadora o nocturna?,others
-409,¿Cómo sueles pasar tus fines de semana?,others
-410,¿Cuál es el mejor concierto al que has asistido?,others
-411,¿Has tenido alguna experiencia paranormal?,others
-412,¿Cuál es tu canción favorita?,others
-413,¿Tienes algún deporte o actividad física que te gustaría aprender?,others
-414,¿Cuál es tu canción de karaoke favorita?,others
-415,¿Te gustaría tener una en un futuro y cuál sería?,others
-416,¿Tienes algún interés o pasatiempo poco común?,others
-417,¿Cuál es el mejor regalo que has recibido?,others
-418,¿Prefieres el mar o la montaña?,others
-419,¿Qué tipo de género musical no soportas?,others
-420,"¿Qué prefieres, leer un libro en físico o digital?",others
-421,¿Eres más de libros o de películas?,others
-422,¿Prefieres la ciudad o el campo?,others
-423,¿Cuál es tu videojuego favorito?,others
-424,¿Te gusta hacer deporte al aire libre o en un gimnasio?,others
-425,¿Cómo describirías tu personalidad en una sola palabra?,others
-426,¿Cuál es el mejor chiste que conoces?,others
-427,¿Tienes alguna habilidad que la gente desconoce?,others
-428,¿Qué idioma te gustaría aprender?,others
-429,¿Cuál es tu color favorito?,others
-430,¿Eres una persona supersticiosa?,others
-431,¿Cuál es tu estación del año favorita?,others
-432,¿Tienes algún lugar secreto al que te gusta escapar?,others
-433,¿Cuál es el mejor consejo que alguien te ha dado?,others
-434,¿Cuál es tu rutina diaria?,others
-435,¿Has vivido en alguna ciudad fuera de tu país de origen?,others
-436,"¿Qué prefieres, la playa o el río?",others
-437,¿Cuál crees que es tu mejor cualidad?,others
-438,¿Eres una persona más planificada o improvisada?,others
-439,¿Podrías vivir sin tu teléfono móvil?,others
-440,¿Cuál es el último lugar al que has viajado?,others
-441,¿Qué libro recomendarías para leer en un viaje?,others
-442,¿Eres alguien que perdona fácilmente?,others
-443,¿Cuál es tu rincón favorito de tu casa?,others
-444,¿Te gusta cambiar la decoración de tu casa o prefieres mantenerla siempre igual?,others
-445,¿Cuál es tu lugar turístico favorito en tu país de origen?,others
-446,¿Cómo es tu relación con tu familia?,others
-447,¿Qué te hace sentir más agradecido en la vida?,others
+261,¿Cuál es tu platillo favorito?,cook
+262,¿Qué tipo de comida te gusta cocinar más?,cook
+263,¿Cómo aprendiste a cocinar?,cook
+264,¿Cuál es tu ingrediente favorito?,cook
+265,¿Qué utensilio de cocina no puede faltar en tu cocina?,cook
+266,¿Prefieres cocinar en una estufa de gas o eléctrica?,cook
+267,¿Cuál es la mejor marca de ollas y sartenes para ti?,cook
+268,¿Cuál es el mejor cuchillo de cocina que has utilizado?,cook
+269,¿Cuál es la receta que más te ha costado perfeccionar?,cook
+270,¿Tienes alguna receta familiar que te haya sido transmitida de generación en generación?,cook
+271,¿Cuál es el plato más exótico que has cocinado?,cook
+272,¿Has participado en algún concurso de cocina?,cook
+273,¿Qué tipo de cocina internacional te gusta cocinar?,cook
+274,¿Cuál es tu postre favorito?,cook
+275,¿Cuál es el platillo más complicado que has cocinado?,cook
+276,¿Eres vegetariano o vegano? ¿Cómo ha afectado esto a tu manera de cocinar?,cook
+277,¿Qué consejos le darías a alguien que quiere aprender a cocinar?,cook
+278,¿Cuál es el plato que mejor te sale?,cook
+279,¿Has probado cocinar alguna receta molecular?,cook
+280,¿Cuál es el secreto para cocinar una buena pasta?,cook
+281,¿Qué técnica culinaria te gusta más?,cook
+282,¿Cómo se te ocurrió la idea de crear tu propia receta?,cook
+283,¿Qué especias son tus favoritas?,cook
+284,¿Cuál es la receta que mejor se adapta a una cena romántica?,cook
+285,¿Cuál es el truco para cocinar una buena carne a la parrilla?,cook
+286,¿Cómo te inspiras para crear nuevas recetas?,cook
+287,¿Cuál es tu chef favorito?,cook
+288,¿Has cocinado alguna vez con ingredientes que nunca antes habías utilizado?,cook
+289,¿Cuál es la comida más picante que has comido?,cook
+290,¿Cuál es el mejor restaurante en el que has comido?,cook
+291,¿Qué es lo más importante en la cocina?,cook
+292,¿Cómo mantienes organizada tu cocina?,cook
+293,¿Cuál es tu plato de comida rápida favorito?,cook
+294,¿Cuál es la mejor técnica para preparar un buen filete?,cook
+295,¿Has cocinado alguna vez en un horno de leña?,cook
+296,¿Cuál es el mejor consejo que has recibido de un chef profesional?,cook
+297,¿Cuál es el mejor acompañamiento para una buena carne?,cook
+298,¿Cómo se prepara una buena sopa de pollo?,cook
+299,¿Cuál es la mejor manera de cocinar un pescado entero?,cook
+300,¿Cómo haces para que tus verduras queden crujientes?,cook
+301,¿Qué tipo de vino utilizas para cocinar?,cook
+302,¿Cuál es el plato que más se te antoja cocinar cuando hace frío?,cook
+303,¿Qué es lo más importante a la hora de preparar un buen postre?,cook
+304,¿Has cocinado alguna vez para una gran cantidad de personas?,cook
+305,¿Cuál es la mejor manera de cocinar una paella?,cook
+306,¿Cómo se prepara un buen ceviche?,cook
+307,¿Cómo puedo cocinar el arroz para que quede perfecto y suelto?,cook
+308,¿Cuál es la mejor manera de preparar un pollo asado para que quede jugoso y con la piel crujiente?,cook
+309,¿Cuál es tu receta favorita para preparar en casa y por qué?,cook
+310,¿Cuál es tu técnica culinaria favorita y en qué platillo la utilizas con mayor frecuencia?,cook
+311,¿Cómo se prepara un risotto cremoso?,cook
+312,¿Cuál es la mejor manera de cocinar un pescado a la parrilla?,cook
+313,¿Cómo se hace una salsa bechamel suave y sin grumos?,cook
+314,¿Cómo se prepara una buena pizza casera?,cook
+315,¿Cuál es la mejor forma de cocinar el salmón al horno?,cook
+316,¿Cómo se hace una buena lasaña con carne y queso?,cook
+317,¿Cuál es la mejor manera de cocinar el filete de res a la parrilla?,cook
+318,¿Cómo se prepara una buena ensalada César?,cook
+319,¿Cuál es la mejor forma de cocinar una paleta de cerdo?,cook
+320,¿Cómo se hace una salsa de tomate casera?,cook
+321,¿Cuál es la mejor manera de cocinar el arroz con pollo?,cook
+322,¿Cómo se prepara una buena pasta con camarones?,cook
+323,¿Cuál es la mejor forma de cocinar un solomillo de cerdo?,cook
+324,¿Cómo se hace una buena salsa de pesto?,cook
+325,¿Cuál es la mejor manera de cocinar el pollo frito?,cook
+326,¿Cómo se prepara una buena sopa de lentejas?,cook
+327,¿Cuál es la mejor forma de cocinar un corte de carne para asar?,cook
+328,¿Cómo se hace una buena salsa de queso?,cook
+329,¿Cuál es la mejor manera de cocinar el pollo a la plancha?,cook
+330,¿Cómo se prepara una buena paella de mariscos?,cook
+331,¿Cuál es la mejor forma de cocinar el salmón a la plancha?,cook
+332,¿Cómo se hace una buena salsa de tomate para pizza?,cook
+333,¿Cuál es la mejor manera de cocinar el churrasco a la parrilla?,cook
+334,¿Cómo se prepara una buena sopa de pollo con verduras?,cook
+335,¿Cuál es la mejor forma de cocinar el filete de res a la plancha?,cook
+336,¿Cómo se hace una buena salsa de albahaca?,cook
+337,¿Cuál es la mejor manera de cocinar el pollo al horno?,cook
+338,¿Cómo se prepara una buena ensalada César con pollo?,cook
+339,¿Cuál es la mejor forma de cocinar el filete de salmón al horno?,cook
+340,¿Cómo se hace una buena salsa de champiñones?,cook
+341,¿Cuál es la mejor manera de cocinar el pollo en salsas?,cook
+342,¿Cómo se prepara una buena pasta con salsa de tomate y albahaca?,cook
+343,¿Cuál es la mejor forma de cocinar el solomillo de ternera a la parrilla?,cook
+344,¿Cómo se hace una buena salsa de tomate para espaguetis?,cook
+345,¿Cuál es la mejor manera de cocinar el pollo al curry?,cook
+346,¿Cómo se prepara una buena sopa de mariscos?,cook
+347,¿Cuál es la mejor forma de cocinar el filete de pescado aCuáles son los utensilios básicos que necesito en mi cocina?,cook
+348,¿Cuál es la diferencia entre la cocina al vapor y la cocina al horno?,cook
+349,¿Cómo puedo saber si un corte de carne está listo para comer?,cook
+350,¿Cuáles son los diferentes tipos de cuchillos de cocina y para qué se utilizan?,cook
+351,¿Cuál es la mejor forma de almacenar los alimentos en la nevera para mantenerlos frescos?,cook
+352,¿Qué es la cocción a baja temperatura y cómo se utiliza en la cocina?,cook
+353,¿Cómo se puede hacer que una sopa espese sin utilizar harina?,cook
+354,¿Cuáles son las especias básicas que deben estar en mi cocina?,cook
+355,¿Cómo se hace para que las verduras mantengan su color brillante y no se vuelvan opacas?,cook
+356,¿Cuál es la mejor manera de cocinar un huevo frito sin que se pegue?,cook
+357,¿Cómo puedo hacer una masa de pizza casera sin gluten?,cook
+358,¿Cómo se pueden hacer las claras de huevo a punto de nieve sin batidora eléctrica?,cook
+359,¿Cuál es la mejor forma de preparar el arroz para sushi?,cook
+360,¿Cómo puedo hacer una buena mermelada casera?,cook
+361,¿Qué ingredientes puedo utilizar para sustituir el azúcar en una receta?,cook
+362,¿Cuál es la mejor manera de cortar una cebolla sin llorar?,cook
+363,¿Cómo se puede hacer para que una ensalada se mantenga fresca durante varias horas?,cook
+364,¿Cuál es la mejor forma de cocinar las papas para hacer puré?,cook
+365,¿Cómo se puede evitar que la pasta se pegue al cocinarla?,cook
+366,¿Qué es el sous vide y cómo se utiliza en la cocina?,cook
+367,¿Cuál es la mejor forma de pelar los tomates fácilmente?,cook
+368,¿Cómo se puede hacer para que una masa de pastelería quede crujiente?,cook
+369,¿Cuál es la mejor manera de limpiar una tabla de cortar de madera?,cook
+370,¿Cómo se puede hacer para que la carne esté más tierna?,cook
+371,¿Cuál es la mejor forma de preparar el pescado para evitar que se rompa al cocinarlo?,cook
+372,¿Cómo se puede hacer una buena salsa de chocolate para postres?,cook
+373,¿Cuál es la mejor forma de almacenar las especias para mantener su sabor fresco?,cook
+374,¿Cómo se puede evitar que la leche se queme al cocinarla?,cook
+375,¿Cuál es la mejor manera de hacer una buena salsa de tomate para pasta?,cook
+376,¿Cómo se puede hacer para que las papas fritas queden crujientes?,cook
+377,¿Cuál es la mejor forma de pelar los ajos fácilmente?,cook
+378,¿Cómo se puede hacer una buena salsa de caramelo para postres?,cook
+379,¿Cuál es la mejor manera de hacer una buena ensalada de frutas?,cook
+380,¿Cómo se puede hacer para que el pollo frito quede crujiente por fuera y jugoso por dentro?,cook
+381,¿Cuál es la mejor forma de limpiar una olla quemada?,cook
+382,¿Cómo se puede hacer para que el pan casero quede esponjoso?,cook
+383,¿Cuál es la mejor manera de hacer una buena ensalada de pasta?,cook
+384,¿Cómo se hace una buena salsa de ajo?,cook
+385,¿Cuál es la mejor manera de cocinar el pollo en salsa de champiñones?,cook
+386,¿Cómo se prepara una buena pasta a la carbonara?,cook
+387,Cómo puedo cocinar el brócoli para que quede crujiente?,cook
+388,¿Cuál es la mejor forma de cocinar un filete de salmón?,cook
+389,¿Cómo se pueden hacer las pechugas de pollo a la parrilla sin que queden secas?,cook
+390,¿Cuál es la mejor manera de cocinar los camarones?,cook
+391,¿Cómo se pueden hacer las patatas asadas para que queden tiernas por dentro y crujientes por fuera?,cook
+392,¿Cuál es la mejor forma de cocinar el arroz para sushi?,cook
+393,¿Cómo se puede cocinar el tofu para que quede sabroso?,cook
+394,¿Cuál es la mejor forma de cocinar el filete de ternera?,cook
+395,¿Cómo se pueden cocinar las coles de Bruselas para que queden sabrosas?,cook
+396,¿Cuál es la mejor manera de cocinar el lomo de cerdo?,cook
+397,¿Cómo se pueden cocinar los huevos para que queden perfectos?,cook
+398,¿Cuál es la mejor forma de cocinar los champiñones?,cook
+399,¿Cómo se pueden cocinar los espárragos para que queden tiernos?,cook
+400,¿Cuál es la mejor manera de cocinar el solomillo de cerdo?,cook
+401,¿Cómo se pueden cocinar las zanahorias para que queden sabrosas?,cook
+402,¿Cuál es la mejor forma de cocinar el filete de pescado?,cook
+403,¿Cómo se pueden cocinar los berberechos para que queden jugosos?,cook
+404,¿Cuál es la mejor manera de cocinar las costillas de cerdo?,cook
+405,¿Cómo se pueden cocinar las alcachofas para que queden tiernas?,cook
+406,¿Cuál es la mejor forma de cocinar el filete de res?,cook
+407,¿Cómo se pueden cocinar las gambas para que queden tiernas y sabrosas?,cook
+408,¿Cuál es la mejor manera de cocinar el cordero?,cook
+409,¿Cómo se pueden cocinar los calamares para que queden tiernos?,cook
+410,¿Cuál es la mejor forma de cocinar el pollo al horno?,cook
+411,¿Cómo se pueden cocinar las habas para que queden tiernas y sabrosas?,cook
+412,¿Cuál es la mejor manera de cocinar el pato?,cook
+413,¿Cómo se pueden cocinar los mejillones para que queden jugosos?,cook
+414,¿Cuál es la mejor forma de cocinar el pollo a la parrilla?,cook
+415,¿Cómo se pueden cocinar los pimientos para que queden sabrosos?,cook
+416,¿Cuál es la mejor manera de cocinar el solomillo de ternera?,cook
+417,¿Cómo se pueden cocinar las sardinas para que queden sabrosas?,cook
+418,¿Cuál es la mejor forma de cocinar el lomo de ternera?,cook
+419,¿Cómo se pueden cocinar las berenjenas para que queden sabrosas?,cook
+420,¿Cuál es la mejor manera de cocinar el conejo?,cook
+421,¿Cómo se pueden cocinar los langostinos para que queden tiernos y sabrosos?,cook
+422,¿Cuál es la mejor forma de cocinar la ternera a la plancha?,cook
+423,¿Cómo se pueden cocinar los champiñones portobello para que queden sabrosos?,cook
+424,Qué es el dorado y cómo se hace?,cook
+425,¿Qué es el flambeado y cómo se hace?,cook
+426,¿Qué es la cocción a baja temperatura y en qué consiste?,cook
+427,¿Qué es el salteado y cómo se hace?,cook
+428,¿Qué es la cocción al vapor y cómo se hace?,cook
+429,¿Qué es la fritura y cómo se hace?,cook
+430,¿Qué es el asado y cómo se hace?,cook
+431,¿Qué es el estofado y cómo se hace?,cook
+432,¿Qué es la cocción en papillote y cómo se hace?,cook
+433,¿Qué es la marinada y cómo se hace?,cook
+434,¿Qué es el escalfado y cómo se hace?,cook
+435,¿Qué es el guisado y cómo se hace?,cook
+436,¿Qué es la reducción y cómo se hace?,cook
+437,¿Qué es la fermentación y cómo se hace?,cook
+438,¿Qué es el ahumado y cómo se hace?,cook
+439,¿Qué es la cocción a la parrilla y cómo se hace?,cook
+440,¿Cómo se pueden hacer salteados sin que se quemen los ingredientes?,cook
+441,¿Cuál es la técnica adecuada para hacer un buen puré de papas?,cook
+442,¿Cómo se puede lograr un buen dorado en una carne?,cook
+443,¿Cuál es la técnica correcta para cocinar a fuego lento?,cook
+444,¿Cómo se puede conseguir un buen glaseado en una comida?,cook
+445,¿Cuál es la técnica adecuada para asar un pollo entero?,cook
+446,¿Cómo se puede hacer un buen roux para una salsa?,cook
+447,¿Cuál es la técnica correcta para cocinar con vapor?,cook
+448,¿Cómo se puede hacer una buena marinada para la carne?,cook
+449,¿Cuál es la técnica adecuada para cocinar en papillote?,cook
+450,¿Cómo se puede hacer una buena cocción al vacío?,cook
+451,¿Cuál es la técnica correcta para empanizar?,cook
+452,¿Cómo se puede hacer una buena cocción al horno?,cook
+453,¿Cuál es la técnica adecuada para cocinar con una plancha?,cook
+454,¿Cómo se puede hacer un buen adobo para la carne?,cook
+455,¿Cuál es la técnica correcta para cocinar con una olla de cocción lenta?,cook
+456,¿Cómo se puede hacer una buena reducción para una salsa?,cook
+457,¿Cuál es la técnica adecuada para cocinar en una parrilla?,cook
+458,¿Cómo se puede hacer una buena infusión para una bebida?,cook
+459,¿Cuál es la técnica correcta para cocinar con una sartén de hierro fundido?,cook
+460,¿Cómo se puede hacer una buena salsa de tomate?,cook
+461,¿Cuál es la técnica adecuada para cocinar en un wok?,cook
+462,¿Cómo se puede hacer una buena crema pastelera?,cook
+463,¿Cuál es la técnica correcta para cocinar con una freidora?,cook
+464,¿Cómo se puede hacer una buena salsa bechamel?,cook
+465,¿Cuál es la técnica adecuada para cocinar con una parrilla de gas?,cook
+466,¿Cómo se puede hacer una buena mayonesa?,cook
+467,¿Cuál es la técnica correcta para cocinar con una parrilla de carbón?,cook
+468,¿Cómo se puede hacer una buena salsa holandesa?,cook
+469,¿Cuál es la técnica adecuada para cocinar con una olla express?,cook
+470,¿Cómo se puede hacer una buena salsa de queso?,cook
+471,¿Cuál es la técnica correcta para cocinar con una sartén antiadherente?,cook
+472,¿Cómo se puede hacer una buena salsa de cebolla?,cook
+473,¿Cuál es la técnica adecuada para cocinar con una freidora de aire?,cook
+474,¿Cómo se puede hacer una buena masa de pizza?,cook
+475,¿Cuál es la técnica correcta para cocinar con una parrilla eléctrica?,cook
+476,¿Cómo se puede hacer una buena salsa de carne?,cook
+477,¿Cuál es la técnica adecuada para cocinar con una parrilla de leña?,cook
+478,¿Cómo se puede hacer una buena masa para crepes?,cook
+479,¿Cuál es la técnica correcta para cocinar con una olla de barro?,cook
+480,¿Cómo se puede hacer una buena salsa de pesto?,cook
+481,¿Cuáles son los ingredientes básicos de la cocina cubana?,cook
+482,¿Qué platillos son los más representativos de la cocina cubana?,cook
+483,¿Qué bebidas son típicas de la cocina cubana?,cook
+484,¿Qué postres son populares en la cocina cubana?,cook
+485,¿Cómo se prepara el arroz congri?,cook
+486,¿Qué es el ajiaco y cómo se prepara?,cook
+487,¿Cómo se prepara la sopa de frijoles negros?,cook
+488,¿Cómo se hace el sofrito cubano?,cook
+489,¿Qué es el tostone y cómo se prepara?,cook
+490,¿Cómo se prepara el mojo?,cook
+491,¿Cuáles son las especias y hierbas más utilizadas en la cocina cubana?,cook
+492,¿Cómo se preparan los camarones al ajillo?,cook
+493,¿Cómo se prepara el picadillo?,cook
+494,¿Qué son los frijoles colorados y cómo se preparan?,cook
+495,¿Cómo se prepara el lechón asado?,cook
+496,¿Cómo se hace el pollo frito cubano?,cook
+497,¿Qué es el flan cubano y cómo se prepara?,cook
+498,¿Cómo se prepara el yuca con mojo?,cook
+499,¿Cómo se prepara el arroz con pollo?,cook
+500,¿Qué son las empanadas cubanas y cómo se preparan?,cook
+501,¿Cómo se hace el arroz con leche?,cook
+502,¿Cómo se prepara el congri oriental?,cook
+503,¿Qué es el pan cubano y cómo se hace?,cook
+504,¿Cómo se prepara el plato de moros y cristianos?,cook
+505,¿Cómo se hace el bistec de palomilla?,cook
+506,¿Qué es el boniato y cómo se prepara?,cook
+507,¿Cómo se prepara el guiso de garbanzos?,cook
+508,¿Cómo se hace el flan de coco?,cook
+509,¿Cómo se prepara el bacalao a la vizcaína?,cook
+510,¿Qué son los tamalitos y cómo se preparan?,cook
+511,¿Cómo se prepara la ensalada de aguacate?,cook
+512,¿Cómo se hace el arroz blanco?,cook
+513,¿Cómo se prepara el cerdo a la cubana?,cook
+514,¿Qué son las papas rellenas y cómo se hacen?,cook
+515,¿Cómo se prepara el plato de ropa vieja?,cook
+516,¿Cómo se hace el arroz con mariscos?,cook
+517,¿Cómo se prepara el chicharrón?,cook
+518,¿Qué son las croquetas y cómo se preparan?,cook
+519,¿Cómo se hace el caldo gallego?,cook
+520,¿Cómo se prepara la ensalada de tomate?,cook
+521,¿Cómo se hace el ajo asado?,cook
+522,¿Qué son las torticas de camarones y cómo se hacen?,cook
+523,¿Cómo se prepara el pollo al horno?,cook
+524,¿Cómo se hace el chilindrón de pollo?,cook
+525,¿Qué son las yemas de huevo y cómo se preparan?,cook
+526,¿Cómo se prepara el arroz con espinacas?,cook
+527,¿Cómo se hace el mojo de cilantro?,cook
+528,¿Cómo se prepara el pollo a la criolla?,cook
+529,¿Qué son las croquetas de jamón y cómo se preparan?,cook
+530,¿Cómo se hace el pan con ajo?,cook
+531,¿Cuáles son los ingredientes más saludables para cocinar?,cook
+532,¿Cómo se pueden hacer recetas saludables con pocos ingredientes?,cook
+533,¿Qué técnicas de cocción son las más saludables?,cook
+534,¿Cómo se pueden hacer recetas saludables sin usar aceite?,cook
+535,¿Cuáles son los alimentos más saludables para el desayuno?,cook
+536,¿Cómo se pueden preparar comidas saludables para llevar al trabajo?,cook
+537,¿Cómo se pueden hacer recetas saludables para la cena?,cook
+538,¿Qué postres saludables se pueden hacer en casa?,cook
+539,¿Cómo se pueden hacer recetas saludables con alimentos congelados?,cook
+540,¿Cuáles son las mejores opciones de alimentos para una dieta vegetariana saludable?,cook
+541,¿Cómo se pueden hacer comidas saludables con alimentos de temporada?,cook
+542,¿Cuál es la mejor manera de cocinar los vegetales para mantener sus nutrientes?,cook
+543,¿Cómo se pueden hacer recetas saludables para niños?,cook
+544,¿Cómo se pueden hacer recetas saludables para personas con enfermedades crónicas?,cook
+545,¿Cuál es la mejor manera de cocinar carnes magras?,cook
+546,¿Cómo se pueden hacer recetas saludables con mariscos?,cook
+547,¿Cuál es la mejor manera de cocinar las legumbres?,cook
+548,¿Cómo se pueden hacer recetas saludables con frutas?,cook
+549,¿Cuáles son los mejores alimentos para una dieta baja en grasas?,cook
+550,¿Cómo se pueden hacer recetas saludables para personas con alergias alimentarias?,cook
+551,¿Cuál es la mejor manera de cocinar sin gluten?,cook
+552,¿Cómo se pueden hacer recetas saludables para personas con diabetes?,cook
+553,¿Cuál es la mejor manera de cocinar para reducir el consumo de sodio?,cook
+554,¿Cómo se pueden hacer recetas saludables con alimentos ricos en fibra?,cook
+555,¿Cuáles son los alimentos más saludables para una dieta sin lactosa?,cook
+556,¿Cómo se pueden hacer recetas saludables para personas con enfermedades del corazón?,cook
+557,¿Cuál es la mejor manera de cocinar para reducir el consumo de azúcar?,cook
+558,¿Cómo se pueden hacer recetas saludables con alimentos ricos en proteínas?,cook
+559,¿Cuál es la mejor manera de cocinar para reducir el consumo de grasas saturadas?,cook
+560,¿Cómo se pueden hacer recetas saludables para personas con enfermedades renales?,cook
+561,¿Cuál es la mejor manera de cocinar para mantener la salud del cerebro?,cook
+562,¿Cómo se pueden hacer recetas saludables con alimentos ricos en calcio?,cook
+563,¿Cuál es la mejor manera de cocinar para reducir el riesgo de cáncer?,cook
+564,¿Cómo se pueden hacer recetas saludables con alimentos ricos en vitamina C?,cook
+565,¿Cuál es la mejor manera de cocinar para reducir el riesgo de enfermedades respiratorias?,cook
+566,¿Cómo se pueden hacer recetas saludables con alimentos ricos en vitamina D?,cook
+567,¿Cuál es la mejor manera de cocinar para mantener la salud de los ojos?,cook
+568,¿Cómo se pueden hacer recetas saludables con alimentos ricos en hierro?,cook
+569,¿Cuál es la mejor manera de cocinar para mantener la salud del sistema inmunológico?,cook
+570,¿Cómo se pueden hacer recetas saludables con alimentos ricos en vitamina E?,cook
+571,¿Cómo puedo hacer que mis comidas sean más saludables sin sacrificar el sabor?,cook
+572,¿Qué consejos tienes para comer bien sin gastar mucho dinero en ingredientes caros?,cook
+573,¿Cuál es tu receta favorita para una comida saludable?,cook
+574,¿Cómo puedo reducir el consumo de carbohidratos sin sentirme privado?,cook
+575,"¿Qué técnicas de cocción son las más saludables, además de simplemente asar o cocer al vapor?",cook
+576,¿Cómo puedo hacer una cena saludable rápida cuando llego tarde del trabajo?,cook
+577,¿Qué alimentos debo evitar para mantener una dieta saludable?,cook
+578,¿Cómo puedo hacer que las verduras sean más atractivas para los niños?,cook
+579,¿Qué comidas saludables puedo llevar en un viaje de carretera o en un día de picnic?,cook
+580,¿Cómo puedo evitar las tentaciones de comida chatarra en casa?,cook
+581,¿Cuáles son los ingredientes saludables que no pueden faltar en mi cocina?,cook
+582,¿Cómo puedo hacer una cena saludable que tenga suficiente proteína sin usar carne?,cook
+583,¿Qué alimentos son buenos para aumentar la energía durante el día?,cook
+584,¿Cómo puedo hacer que los postres sean más saludables sin sacrificar el sabor?,cook
+585,¿Cuáles son los bocadillos saludables que puedo llevar al trabajo o a la escuela?,cook
+586,¿Qué recetas saludables son buenas para una dieta baja en carbohidratos?,cook
+587,¿Cómo puedo hacer que una ensalada sea más emocionante?,cook
+588,¿Qué bebidas son saludables y refrescantes para el verano?,cook
+589,¿Cómo puedo hacer que las comidas saludables sean más atractivas para mis invitados que prefieren la comida chatarra?,cook
+590,¿Qué alimentos son buenos para ayudar a mantener una piel saludable y radiante?,cook
+591,Hola,others
+592,Buenos días cómo está usted,others
+593,Cómo te va?,others
+594,Y tu que tal,others
+595,Hola,others
+596,Cómo estás,others
+597,Hay alquien ?,others
+598,Quién eres,others
+599,Que tal,others
+600,Buen día,others
+601,Adiós,others
+602,Nos vemos,others
+603,Me voy,others
+604,Gracias,others
+605,Muchas gracias,others
+606,Es muy útil,others
+607,Gracias por ayudar,others
+608,Quién eres ?,others
+609,A que te dedicas,others
+610,Qué haces,others
+611,Cómo está el tiempo hoy,others
+612,Qué tal te ha ido el día,others
+613,Sabes de algun lugar donde vendan motos,others
+614,Sabes sobre teléfonos,others
+615,Cuál es el último automovil o carro que salió al mercado,others
+616,Si tengo muchos carros o autos o automoviles que puedo hacer con ellos?,others
+617,¿Cuál es tu canción favorita?,others
+618,¿Qué libro te ha marcado más?,others
+619,¿Cuál es tu deporte favorito?,others
+620,¿Cuál ha sido el mejor viaje que has hecho?,others
+621,¿Qué es lo que más te gusta hacer en tu tiempo libre?,others
+622,¿Cuál es tu serie de televisión favorita?,others
+623,¿Cuál ha sido la mejor película que has visto?,others
+624,¿Cuál es tu género musical favorito?,others
+625,¿Cuál es tu color favorito?,others
+626,¿Qué idioma te gustaría aprender?,others
+627,¿Qué es lo que más te gusta de tu ciudad?,others
+628,¿Cuál ha sido la experiencia más emocionante de tu vida?,others
+629,¿Cuál es tu lugar favorito en el mundo?,others
+630,¿Cuál es tu juego de mesa favorito?,others
+631,¿Cuál es el mejor consejo que te han dado?,others
+632,¿Qué te gustaría hacer en el futuro?,others
+633,¿Cuál es tu animal favorito?,others
+634,¿Cuál es el mejor regalo que has recibido?,others
+635,¿Qué es lo que más te gusta de ti mismo?,others
+636,¿Cuál ha sido la situación más divertida que has vivido?,others
+637,¿Cuál es tu actor o actriz favorito/a?,others
+638,¿Cuál ha sido la peor experiencia que has tenido en tu vida?,others
+639,¿Cuál es tu estilo de música menos favorito?,others
+640,¿Qué es lo que más te gusta de tu trabajo?,others
+641,¿Cuál es tu hobby favorito?,others
+642,¿Cuál es tu canción que no puedes dejar de escuchar últimamente?,others
+643,¿Qué es lo que más te gusta de la naturaleza?,others
+644,¿Cuál es tu comida favorita?,others
+645,¿Cuál es el lugar más bonito que has visitado?,others
+646,¿Qué es lo que te gusta hacer cuando estás triste?,others
+647,¿Cuál es tu sueño por cumplir?,others
+648,¿Qué es lo que más te gusta de las personas?,others
+649,¿Cuál es tu bebida favorita?,others
+650,¿Qué es lo que te gustaría cambiar del mundo?,others
+651,¿Cuál es tu actor o actriz menos favorito/a?,others
+652,¿Cuál es el mejor consejo que le has dado a alguien?,others
+653,¿Qué es lo que más te gusta de las redes sociales?,others
+654,¿Cuál es tu estación del año favorita?,others
+655,¿Qué es lo que más te gusta de la tecnología?,others
+656,¿Cuál es tu lugar favorito para relajarte?,others
+657,¿Qué es lo que te hace sentir más vivo?,others
+658,¿Cuál es tu mejor recuerdo de la infancia?,others
+659,¿Cuál es tu tipo de película favorita?,others
+660,¿Qué es lo que más te gusta de la cultura de tu país?,others
+661,¿Cuál es tu canción de la infancia favorita?,others
+662,¿Cuál es el mejor consejo que le has dado a un amigo?,others
+663,¿Qué es lo que te hace sentir agradecido?,others
+664,¿Cuál es tu objeto favorito?,others
+665,¿Qué es lo que te hace sentir orgulloso?,others
+666,¿Cuál es tu forma favorita de ejercicio?,others
+667,¿Cuál es tu mejor habilidad?,others
+668,¿Qué es lo que te hace sentir motivado?,others
+669,¿Qué onda?,others
+670,¿Cómo te va todo?,others
+671,¿Qué cuentas?,others
+672,¿Qué has estado haciendo últimamente?,others
+673,¿Cómo estuvo tu día?,others
+674,¿Qué planes tienes para el fin de semana?,others
+675,¿Vamos a salir hoy?,others
+676,¿Te gustaría ir a tomar algo?,others
+677,¿Qué te parece si vamos al cine?,others
+678,¿Cómo va todo en el trabajo/la escuela?,others
+679,¿Qué estás haciendo por la tarde?,others
+680,¿Quieres ir a dar una vuelta?,others
+681,¿Qué estás leyendo/escuchando/viendo?,others
+682,¿Te ha pasado algo interesante últimamente?,others
+683,¿Cuál es tu comida favorita?,others
+684,¿Qué música te gusta?,others
+685,¿Has estado en algún concierto recientemente?,others
+686,¿Cuál es tu lugar favorito para salir a cenar?,others
+687,¿Qué deporte te gusta?,others
+688,¿Tienes algún hobby?,others
+689,¿Cuál es tu película favorita?,others
+690,¿Te gusta viajar?,others
+691,¿Qué país te gustaría visitar?,others
+692,¿Tienes algún lugar favorito en tu ciudad?,others
+693,¿Cuál es tu deporte favorito para ver en la televisión?,others
+694,¿Qué libro estás leyendo?,others
+695,¿Cuál es tu género musical favorito?,others
+696,¿Te gusta la playa o la montaña?,others
+697,¿Cuál es tu canción favorita?,others
+698,¿Te gusta cocinar?,others
+699,¿Cuál es tu bebida favorita?,others
+700,¿Qué es lo que más te gusta de la primavera/verano/otoño/invierno?,others
+701,¿Tienes alguna mascota?,others
+702,¿Qué te hace feliz?,others
+703,¿Cuál es tu color favorito?,others
+704,¿Te gusta ir de compras?,others
+705,¿Qué piensas del cambio climático?,others
+706,¿Cuál es tu programa de televisión favorito?,others
+707,¿Qué tipo de comida no te gusta?,others
+708,¿Cuál es tu canción que no puedes dejar de escuchar últimamente?,others
+709,¿Cuál es tu rutina diaria? ¿Qué ingredientes la conforman?,others
+710,¿Cuál es tu libro favorito? ¿Qué ingredientes crees que lo hacen único?,others
+711,¿Qué planes tienes para el fin de semana? ¿Cuáles son los ingredientes principales de tu diversión?,others
+712,¿Cuál es la película que más te ha gustado este año? ¿Qué ingredientes consideras que la hacen especial?,others
+713,¿Cómo describirías el amor? ¿Qué ingredientes lo conforman?,others
+714,¿Cuál es el mejor consejo que te han dado? ¿Cuáles son los ingredientes que lo hacen valioso?,others
+715,¿Qué música te gusta escuchar cuando te sientes nostálgico? ¿Qué ingredientes contiene esa música?,others
+716,¿Cuál es tu pasatiempo favorito? ¿Qué ingredientes consideras que lo hacen interesante?,others
+717,¿Qué papel crees que juegan las emociones en el aprendizaje? ¿Cuáles son los ingredientes de un buen aprendizaje emocional?,others
+718,¿Qué consejo le darías a alguien que quiere empezar a hacer ejercicio? ¿Cuáles son los ingredientes para una rutina de ejercicio efectiva?,others
+719,¿Cuál es el mejor consejo de negocios que has recibido? ¿Cuáles son los ingredientes de una buena estrategia de negocios?,others
+720,¿Qué habilidades crees que son las más importantes para tener éxito en la vida? ¿Cuáles son los ingredientes de una vida exitosa?,others
+721,¿Cuál es el país que más te ha gustado visitar hasta el momento,others
+722,? ¿Cuáles son los ingredientes de esa experiencia de viaje?,others
+723,¿Cómo describirías tu personalidad? ¿Qué ingredientes la componen?,others
+724,¿Qué te gustaría hacer si tuvieras un día libre sin restricciones de tiempo o dinero? ¿Qué ingredientes tendría tu día de ensueño?,others
+725,¿Crees que el dinero es importante para ser feliz? ¿Cuáles son los ingredientes de la felicidad verdadera?,others
+726,¿Qué necesitas para tener una buena noche de sueño? ¿Qué ingredientes tiene una buena noche de descanso?,others
+727,¿Cuáles son las habilidades más importantes que debes tener para ser un buen líder? ¿Cuáles son los ingredientes de un buen liderazgo?,others
+728,¿Crees que la alimentación afecta el estado de ánimo? ¿Cuáles son los ingredientes de una buena alimentación emocional?,others
+729,¿Cuál es tu deporte favorito?,others
+730,¿Cuál es el país que más te gustaría visitar?,others
+731,¿Cuál es tu película favorita?,others
+732,¿Eres más de perros o de gatos?,others
+733,¿Estás siguiendo alguna serie en este momento?,others
+734,¿Cuál es la mejor ciudad que has visitado?,others
+735,¿Tienes algún talento especial?,others
+736,¿Tocas algún instrumento musical?,others
+737,¿Cuál es tu comida favorita?,others
+738,¿Eres una persona madrugadora o nocturna?,others
+739,¿Cómo sueles pasar tus fines de semana?,others
+740,¿Cuál es el mejor concierto al que has asistido?,others
+741,¿Has tenido alguna experiencia paranormal?,others
+742,¿Cuál es tu canción favorita?,others
+743,¿Tienes algún deporte o actividad física que te gustaría aprender?,others
+744,¿Cuál es tu canción de karaoke favorita?,others
+745,¿Te gustaría tener una en un futuro y cuál sería?,others
+746,¿Tienes algún interés o pasatiempo poco común?,others
+747,¿Cuál es el mejor regalo que has recibido?,others
+748,¿Prefieres el mar o la montaña?,others
+749,¿Qué tipo de género musical no soportas?,others
+750,"¿Qué prefieres, leer un libro en físico o digital?",others
+751,¿Eres más de libros o de películas?,others
+752,¿Prefieres la ciudad o el campo?,others
+753,¿Cuál es tu videojuego favorito?,others
+754,¿Te gusta hacer deporte al aire libre o en un gimnasio?,others
+755,¿Cómo describirías tu personalidad en una sola palabra?,others
+756,¿Cuál es el mejor chiste que conoces?,others
+757,¿Tienes alguna habilidad que la gente desconoce?,others
+758,¿Qué idioma te gustaría aprender?,others
+759,¿Cuál es tu color favorito?,others
+760,¿Eres una persona supersticiosa?,others
+761,¿Cuál es tu estación del año favorita?,others
+762,¿Tienes algún lugar secreto al que te gusta escapar?,others
+763,¿Cuál es el mejor consejo que alguien te ha dado?,others
+764,¿Cuál es tu rutina diaria?,others
+765,¿Has vivido en alguna ciudad fuera de tu país de origen?,others
+766,"¿Qué prefieres, la playa o el río?",others
+767,¿Cuál crees que es tu mejor cualidad?,others
+768,¿Eres una persona más planificada o improvisada?,others
+769,¿Podrías vivir sin tu teléfono móvil?,others
+770,¿Cuál es el último lugar al que has viajado?,others
+771,¿Qué libro recomendarías para leer en un viaje?,others
+772,¿Eres alguien que perdona fácilmente?,others
+773,¿Cuál es tu rincón favorito de tu casa?,others
+774,¿Te gusta cambiar la decoración de tu casa o prefieres mantenerla siempre igual?,others
+775,¿Cuál es tu lugar turístico favorito en tu país de origen?,others
+776,¿Cómo es tu relación con tu familia?,others
+777,¿Qué te hace sentir más agradecido en la vida?,others
+778,¿Cuál es tu película favorita de todos los tiempos?,others
+779,¿Cuál es la mejor experiencia de viaje que has tenido?,others
+780,¿Qué libro has leído recientemente que te ha dejado una impresión duradera?,others
+781,¿Cuál ha sido la mejor decisión que has tomado en tu vida?,others
+782,¿Qué habilidades te gustaría aprender en el futuro?,others
+783,¿Qué tipo de música te gusta escuchar cuando necesitas relajarte?,others
+784,¿Cuál ha sido la experiencia más aterradora que has tenido?,others
+785,¿Qué tipo de deportes te gusta practicar o ver?,others
+786,¿Cuál ha sido el mejor regalo que has recibido?,others
+787,¿Cómo te describirías en tres palabras?,others
+788,¿Cuál ha sido la mejor lección que has aprendido en la vida?,others
+789,¿Qué cambios harías en el mundo si tuvieras el poder de hacerlo?,others
+790,¿Cuál es tu pasatiempo favorito?,others
+791,¿Qué te inspira en la vida?,others
+792,¿Qué es lo más importante en una relación para ti?,others
+793,¿Qué te motiva a levantarte de la cama cada mañana?,others
+794,¿Cuál ha sido el mejor consejo que has recibido?,others
+795,¿Cómo te gustaría ser recordado?,others
+796,¿Qué habilidades crees que son importantes para tener éxito en la vida?,others
+797,¿Cuál es tu estación del año favorita y por qué?,others
+798,¿Qué es lo que más te emociona del futuro?,others
+799,¿Cuál es la historia detrás de tu nombre?,others
+800,¿Qué te hace sentir más vivo/a?,others
+801,¿Cuál es tu lugar favorito en el mundo?,others
+802,¿Cuál es tu mejor recuerdo de la infancia?,others
+803,¿Cuál es tu película favorita y por qué?,others
+804,¿Cuál es tu libro favorito y por qué?,others
+805,¿Cuál es tu mayor logro hasta la fecha?,others
+806,¿Cuál es tu mayor miedo?,others
+807,¿Cuál es el lugar más hermoso en el que has estado?,others
+808,Cuál es tu lugar favorito en el mundo?,others
+809,¿Qué te gusta hacer en tu tiempo libre?,others
+810,¿Cuál es tu libro favorito?,others
+811,¿Tienes algún hobby?,others
+812,¿Cómo describirías tu personalidad en tres palabras?,others
+813,¿Tienes alguna fobia?,others
+814,¿Cuál es tu deporte favorito?,others
+815,¿Cuál es tu lugar de vacaciones ideal?,others
+816,¿Tienes alguna habilidad especial que te gustaría compartir?,others
+817,¿Cuál es tu música favorita?,others
+818,¿Cuál es tu película favorita?,others
+819,¿Tienes algún talento artístico?,others
+820,¿Qué te gusta hacer los fines de semana?,others
+821,¿Qué te motiva en la vida?,others
+822,¿Cuál es tu mayor logro hasta el momento?,others
+823,¿Qué te gustaría lograr en el futuro?,others
+824,¿Cuál es tu pasatiempo favorito?,others
+825,¿Tienes algún recuerdo de la infancia que te haya marcado?,others
+826,¿Tienes algún lugar en tu ciudad que te guste visitar?,others
+827,¿Cuál es tu estilo de vestir favorito?,others
+828,¿Qué te gusta hacer cuando estás estresado?,others
+829,¿Tienes algún miedo irracional?,others
+830,¿Cuál es tu lugar favorito para relajarte?,others
+831,¿Tienes algún plan de viaje para el futuro?,others
+832,¿Qué tipo de películas te gustan?,others
+833,¿Qué es lo que más te gusta de ti mismo?,others
+834,¿Cuál es tu cita favorita?,others
+835,¿Tienes algún ídolo o modelo a seguir?,others
+836,¿Tienes algún consejo para la vida?,others
+837,¿Cuál es tu deporte favorito para practicar?,others
+838,¿Tienes alguna meta que te gustaría alcanzar?,others
+839,¿Cuál es tu canción favorita?,others
+840,¿Tienes algún talento que no muchas personas conocen?,others
+841,¿Qué te gustaría hacer si tuvieras un día libre ilimitado?,others
+842,¿Cuál es tu lugar favorito para ir de vacaciones?,others
+843,¿Qué tipo de música te gusta escuchar?,others
+844,¿Tienes alguna mascota? ¿Cómo se llama?,others
+845,¿Qué libro estás leyendo actualmente?,others
+846,¿Cuál es tu deporte favorito para practicar?,others
+847,¿Cuál es tu película favorita de todos los tiempos?,others
+848,¿Tienes algún pasatiempo o actividad que disfrutes hacer en tu tiempo libre?,others
+849,¿Cuál es tu canción favorita en este momento?,others
+850,¿Prefieres ver películas en casa o en el cine?,others
+851,¿Tienes alguna habilidad o talento que te gustaría aprender en el futuro?,others
+852,¿Cuál es tu color favorito?,others
+853,¿Has viajado a algún lugar recientemente? ¿Cómo fue la experiencia?,others
+854,¿Qué tipo de comida te gusta más allá de la cocina saludable?,others
+855,¿Cuál es tu pasatiempo favorito?,others
+856,¿Qué libro te ha dejado una impresión duradera?,others
+857,¿Cuál es tu lugar favorito para relajarte?,others
+858,¿Qué te inspira en la vida?,others
+859,¿Cuál es tu deporte favorito para ver o practicar?,others
+860,¿Qué país te gustaría visitar y por qué?,others
+861,¿Qué tipo de música te gusta escuchar?,others
+862,¿Cuál es tu película favorita y por qué?,others
+863,¿Tienes alguna habilidad o talento que te gustaría compartir?,others
+864,¿Qué tipo de mascota prefieres y por qué?,others
+865,¿Cuál es tu estación del año favorita y por qué?,others
+866,¿Cómo se puede motivar a las personas para que hagan más ejercicio regularmente?,others
+867,¿Crees que las redes sociales tienen un impacto positivo o negativo en nuestra sociedad?,others
+868,¿Cuál es tu opinión sobre la legalización del uso recreativo de la marihuana?,others
+869,¿Qué países te gustaría visitar y por qué?,others
+870,¿Cuál es tu deporte favorito para ver y por qué?,others
+871,¿Cómo crees que la tecnología afecta nuestra vida diaria?,others
+872,¿Cuál es tu género de música favorito y por qué te gusta?,others
+873,¿Cuál es tu película favorita y por qué te gusta tanto?,others
+874,¿Tienes alguna habilidad o talento que la gente no conoce de ti?,others
+875,¿Cuál es tu lugar favorito para pasar las vacaciones y por qué?,others
+876,¿Cómo te describirías en tres palabras?,others
+877,¿Cuál es tu libro favorito y por qué te gusta?,others
+878,¿Tienes alguna habilidad o talento único que no muchas personas conocen?,others
+879,¿Cuáles son tus pasatiempos favoritos y por qué?,others
+880,¿Has leído algún libro recientemente que te haya impactado?,others
+881,¿Cuál es el mejor consejo que has recibido en la vida y de quién lo recibiste?,others
+882,¿Cuál es tu lugar favorito para relajarte y desconectar?,others
+883,¿Cuál ha sido tu experiencia más interesante o inusual mientras viajabas?,others
+884,¿Qué canción te hace sentir más feliz?,others
+885,¿Cuál ha sido tu logro más grande hasta ahora?,others
+886,¿Qué te hace sentir más agradecido en la vida?,others
+887,¿Qué crees que es lo más importante en una amistad?,others
+888,¿Cuál es el sueño más loco que has tenido y de qué se trataba?,others
+889,¿Has visto alguna película o serie últimamente que te haya gustado mucho?,others
+890,¿Cuál es tu deporte favorito y por qué?,others
+891,¿Tienes alguna habilidad o talento oculto que no mucha gente conoce?,others
+892,¿Qué es lo que más te preocupa en la sociedad actual?,others
+893,¿Cuál es tu lugar ideal para vivir y por qué?,others
+894,¿Cuál es la mejor broma que has hecho o te han hecho?,others
+895,¿Qué libro te gustaría que todo el mundo leyera y por qué?,others
+896,¿Cuál es tu comida favorita y por qué te gusta tanto?,others
+897,¿Qué habilidad te gustaría aprender en el futuro?,others
+898,¿Cuál es tu recuerdo favorito de la infancia y por qué es importante para ti?,others
+899,¿Cuál ha sido tu mejor experiencia de viaje?,others
+900,¿Qué libro has leído recientemente y te ha gustado?,others
+901,¿Qué deporte te gusta practicar o ver?,others
+902,¿Qué canción te hace sentir feliz?,others
+903,¿Cuál es tu película favorita?,others
+904,¿Qué tipo de música te gusta escuchar?,others
+905,¿Cuál es tu mejor habilidad?,others
+906,¿Cuál es tu animal favorito?,others
+907,¿Qué país te gustaría visitar?,others
+908,¿Cuál es tu serie de televisión favorita?,others
+909,¿Cuál es tu juego de mesa favorito?,others
+910,¿Qué objeto o cosa no te puede faltar en tu día a día?,others
+911,¿Qué te gustaría hacer antes de morir?,others
+912,¿Qué te hace reír?,others
+913,¿Cuál es tu color favorito?,others
+914,¿Prefieres la playa o la montaña?,others
+915,¿Qué te gusta hacer en tu tiempo libre?,others
+916,¿Cuál es tu pasatiempo favorito?,others
+917,¿Qué deporte extremo te gustaría practicar?,others
+918,¿Qué es lo más interesante que has aprendido recientemente?,others
+919,¿Cuál es tu mejor talento oculto?,others
+920,¿Te gustaría tener hijos en el futuro?,others
+921,¿Qué te hace sentir agradecido en la vida?,others
+922,¿Qué te gustaría aprender en la vida?,others
+923,¿Cómo te defines a ti mismo?,others
+924,¿Qué te hace sentir incómodo?,others
+925,¿Te gustaría ser famoso?,others
+926,¿Qué te gustaría cambiar del mundo?,others
+927,¿Cuál es tu estación del año favorita?,others
+928,¿Qué habilidad te gustaría aprender?,others
+929,¿Cómo te ves a ti mismo en 10 años?,others
+930,¿Cuál es tu opinión sobre el cambio climático?,others
+931,¿Te consideras una persona tímida o extrovertida?,others
+932,¿Qué te gustaría mejorar de ti mismo?,others
+933,¿Cuál es tu lugar favorito en el mundo?,others
+934,¿Cuál es tu opinión sobre la tecnología?,others
+935,¿Te gusta hacer voluntariado?,others
+936,¿Qué es lo que más te enorgullece de ti mismo?,others
+937,¿Cuál es tu opinión sobre el feminismo?,others
+938,¿Qué es lo que más te emociona en la vida?,others
+939,¿Cuál es tu opinión sobre la educación?,others
+940,¿Prefieres el día o la noche?,others
+941,¿Cuál es tu opinión sobre la religión?,others
+942,¿Cuál es tu opinión sobre la política?,others
+943,¿Qué te gustaría hacer si tuvieras un día libre?,others
+944,¿Cuál es tu opinión sobre las redes sociales?,others
+945,¿Qué te hace sentir motivado en la vida?,others
+946,¿Cuál es tu opinión sobre el trabajo?,others
+947,¿Cuál es tu opinión sobre el amor?,others
+948,¿Qué te gustaría lograr en la vida?,others
+949,¿Cuál es tu opinión sobre la violencia?,others
+950,¿Qué es lo que más te molesta de la sociedad actual?,others
+951,¿Cuál es tu opinión sobre la felicidad?,others
+952,¿Qué te gustaría hacer en una cita perfecta?,others
+953,¿Cuál es tu opinión sobre la igualdad de género?,others
+954,¿Cuál es el origen del universo y cómo se formó?,others
+955,¿Qué te parece la idea de la inteligencia artificial y cómo puede afectar a nuestra sociedad?,others
+956,¿Cuáles son los mejores destinos turísticos en tu país?,others
+957,¿Cómo afecta el cambio climático a nuestro planeta y cómo podemos combatirlo?,others
+958,¿Qué películas te han hecho llorar y por qué?,others
+959,¿Qué piensas acerca de la pena de muerte?,others
+960,¿Cuáles son los deportes que más disfrutas ver o practicar?,others
+961,¿Crees que la educación tradicional está obsoleta y por qué?,others
+962,¿Qué te parece la idea de colonizar Marte y cómo podríamos hacerlo realidad?,others
+963,¿Cuál es tu libro favorito y por qué lo recomendarías?,others
+964,¿Qué piensas acerca de la legalización de la marihuana?,others
+965,¿Cuál es la mejor manera de lidiar con la ansiedad y el estrés?,others
+966,¿Qué importancia le das a la religión y cómo influye en tu vida?,others
+967,¿Qué opinas sobre la evolución de las redes sociales y cómo afectan a nuestra vida diaria?,others
+968,¿Cuáles son tus hobbies o pasatiempos favoritos?,others
+969,¿Crees que la tecnología nos acerca o nos aleja de las personas?,others
+970,¿Cuál es tu destino de viaje ideal y por qué?,others
+971,¿Qué piensas acerca de la igualdad de género y cómo se puede lograr?,others
+972,¿Qué música te gusta y cómo influye en tu vida?,others
+973,¿Cuál es tu animal favorito y por qué te gusta?,others
+974,¿Qué piensas acerca de los videojuegos y cómo pueden afectar a los jóvenes?,others
+975,¿Cuáles son tus programas de televisión favoritos y por qué?,others
+976,¿Qué piensas acerca de los movimientos sociales como Black Lives Matter o Me Too?,others
+977,¿Crees que la tecnología puede ayudarnos a resolver problemas globales como la pobreza o la falta de recursos?,others
+978,¿Cuál es la mejor manera de lidiar con la procrastinación?,others
+979,¿Qué piensas acerca de la eutanasia y cómo debería ser regulada?,others
+980,¿Cuáles son tus restaurantes favoritos y qué platillos recomendarías?,others
+981,¿Qué piensas acerca de la legalización del aborto?,others
+982,¿Cuál es tu deporte extremo favorito y por qué?,others
+983,¿Cómo podemos mejorar la educación en tu país?,others
+984,¿Cuál es tu actor o actriz favorita y por qué?,others
+985,¿Qué piensas acerca de los derechos de los animales y cómo podemos protegerlos?,others
+986,¿Cuáles son los desafíos que enfrenta nuestra sociedad actualmente y cómo podemos superarlos?,others
+987,¿Qué piensas acerca de la discriminación racial y cómo podemos combatirla?,others
+988,¿Cuál es tu juego de mesa favorito y por qué?,others
+989,¿Cómo podemos mejorar nuestras habilidades de comunicación y por qué es importante?,others
+990,¿Cuál es tu destino de viaje ideal en el extranjero y por qué?,others
+991,¿Qué piensas acerca de la legalización de la prostitución?,others
+992,¿Cuáles son las mejores prácticas para mejorar la salud mental y emocional?,others
+993,¿Cuál es tu película favorita y por qué?,others
+994,¿Qué es lo que más te gusta de viajar?,others
+995,¿Cuál es tu deporte favorito y por qué?,others
+996,¿Cuál ha sido el momento más feliz de tu vida y por qué?,others
+997,¿Qué es lo que más te gusta de tu trabajo?,others
+998,¿Qué es lo que más te preocupa del futuro?,others
+999,¿Qué libro te ha marcado más y por qué?,others
+1000,¿Cuál es tu canción favorita y por qué?,others
+1001,¿Qué actividad te gusta hacer en tu tiempo libre?,others
+1002,¿Cuál es tu recuerdo favorito de la infancia?,others
+1003,¿Cuál es tu ciudad favorita y por qué?,others
+1004,¿Qué es lo que más te gusta de la naturaleza?,others
+1005,¿Qué te gustaría aprender y por qué?,others
+1006,¿Cuál es tu animal favorito y por qué?,others
+1007,¿Qué te inspira a ser mejor cada día?,others
+1008,¿Qué es lo que más te ha sorprendido en la vida?,others
+1009,¿Cuál ha sido el mayor desafío que has enfrentado y cómo lo superaste?,others
+1010,¿Qué te gusta hacer cuando te sientes triste?,others
+1011,¿Cuál es tu meta a largo plazo y cómo planeas lograrla?,others
+1012,¿Qué es lo que más te gusta de tu familia?,others
+1013,¿Cuál ha sido la lección más importante que has aprendido en la vida?,others
+1014,¿Cuál es tu personaje histórico favorito y por qué?,others
+1015,¿Cuál es tu juego de mesa favorito y por qué?,others
+1016,¿Qué es lo que más te gusta de tu país?,others
+1017,¿Qué te hace sentir agradecido en la vida?,others
+1018,¿Cuál es tu serie de televisión favorita y por qué?,others
+1019,¿Qué es lo que más te gusta de la música?,others
+1020,¿Qué te gustaría cambiar del mundo y por qué?,others
+1021,¿Cuál es tu comida favorita y por qué?,others
+1022,¿Qué es lo que más te gusta de la tecnología?,others
+1023,¿Qué te motiva a hacer ejercicio?,others
+1024,¿Cuál es tu sueño más loco?,others
+1025,¿Qué es lo que más te gusta de la fotografía?,others
+1026,¿Qué te hace sentir orgulloso de ti mismo?,others
+1027,¿Cuál es tu lugar favorito para relajarte y por qué?,others
+1028,¿Qué te gustaría mejorar de ti mismo y por qué?,others
+1029,¿Cuál es tu programa de televisión favorito y por qué?,others
+1030,¿Qué es lo que más te gusta de los viajes en carretera?,others
+1031,¿Qué te hace sentir emocionado en la vida?,others
+1032,¿Cuál es tu deporte acuático favorito y por qué?,others
+1033,¿Qué es lo que más te gusta de la literatura?,others
+1034,¿Qué te gustaría hacer si tuvieras más tiempo libre?,others
+1035,¿Cuál es tu obra de arte favorita y por qué?,others
+1036,¿Qué es lo que más te gusta de la meditación?,others
+1037,¿Qué te hace sentir motivado en la vida?,others
+1038,¿Cuál es tu ciudad ideal para vivir y por qué?,others
+1039,¿Qué te gustaría cambiar de tu trabajo y por qué?,others
+1040,¿Qué es lo que más te gusta de las redes sociales?,others
+1041,¿Cuál es tu libro favorito y por qué?,others
+1042,¿Cuál es tu película favorita y por qué?,others
+1043,¿Qué opinas sobre el cambio climático?,others
+1044,¿Cuál es tu deporte favorito y por qué?,others
+1045,¿Crees en la vida después de la muerte?,others
+1046,¿Cuál es tu ciudad favorita y por qué?,others
+1047,¿Prefieres la playa o la montaña?,others
+1048,¿Cuál es tu animal favorito y por qué?,others
+1049,¿Cuál ha sido tu experiencia más aterradora?,others
+1050,¿Cuál ha sido tu experiencia más emocionante?,others
+1051,¿Cuál es tu música favorita y por qué?,others
+1052,¿Cuál es tu programa de televisión favorito y por qué?,others
+1053,¿Prefieres el cine o el teatro?,others
+1054,¿Crees que la tecnología nos está ayudando o perjudicando?,others
+1055,¿Cuál es tu color favorito y por qué?,others
+1056,¿Crees que la educación es importante?,others
+1057,¿Qué opinas sobre la igualdad de género?,others
+1058,¿Cuál ha sido el lugar más hermoso que has visitado?,others
+1059,¿Cuál ha sido el momento más feliz de tu vida?,others
+1060,¿Qué opinas sobre la política?,others
+1061,¿Cuál ha sido la decisión más difícil que has tomado en tu vida?,others
+1062,¿Cuál ha sido tu experiencia más vergonzosa?,others
+1063,¿Crees en los horóscopos?,others
+1064,¿Qué opinas sobre la legalización de la marihuana?,others
+1065,¿Cuál es tu videojuego favorito y por qué?,others
+1066,¿Crees que la religión es importante?,others
+1067,¿Qué opinas sobre el aborto?,others
+1068,¿Cuál es tu hobby favorito y por qué?,others
+1069,¿Crees en los extraterrestres?,others
+1070,¿Cuál es tu comida favorita y por qué?,others
+1071,¿Prefieres el café o el té?,others
+1072,¿Qué opinas sobre la eutanasia?,others
+1073,¿Cuál es tu estilo de moda favorito y por qué?,others
+1074,¿Qué opinas sobre la pena de muerte?,others
+1075,¿Crees que el dinero trae la felicidad?,others
+1076,¿Cuál es tu marca de ropa favorita y por qué?,others
+1077,¿Qué opinas sobre la adopción?,others
+1078,¿Cuál es tu libro de ficción favorito y por qué?,others
+1079,¿Crees en el destino?,others
+1080,¿Cuál es tu actor o actriz favorito y por qué?,others
+1081,¿Qué opinas sobre la cirugía plástica?,others
+1082,¿Cuál es tu estación del año favorita y por qué?,others
+1083,¿Crees en el amor a primera vista?,others
+1084,¿Cuál es tu festival o celebración favorita y por qué?,others
+1085,¿Qué opinas sobre el veganismo?,others
+1086,¿Cuál ha sido tu viaje más memorable y por qué?,others
+1087,¿Crees que la monogamia es la mejor opción?,others
+1088,¿Cuál es tu juego de mesa favorito y por qué?,others
+1089,¿Qué opinas sobre el matrimonio entre personas del mismo sexo?,others
+1090,¿Cuál es tu estilo de música favorito y por qué?,others
+1091,¿Crees en la evolución?,others
+1092,¿Cuál ha sido tu trabajo favorito y por qué?,others
+1093,¿Qué opinas sobre la pena de cárcel?,others
